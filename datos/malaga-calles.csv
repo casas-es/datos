@@ -1,0 +1,959 @@
+ine,municipio,puesto,calle,viviendas,url_casas_es
+29001,Alameda,1,Calle Nueva,149,https://casas.es/malaga/alameda/calle-nueva/
+29001,Alameda,2,Calle Cañada,108,https://casas.es/malaga/alameda/calle-canada/
+29001,Alameda,3,Calle Estepa,98,https://casas.es/malaga/alameda/calle-estepa/
+29001,Alameda,4,Calle Baja,83,https://casas.es/malaga/alameda/calle-baja/
+29001,Alameda,5,Calle Sotillo,74,https://casas.es/malaga/alameda/calle-sotillo/
+29001,Alameda,6,Calle Álamos,68,https://casas.es/malaga/alameda/calle-alamos/
+29001,Alameda,7,Calle Granada,62,https://casas.es/malaga/alameda/calle-granada/
+29001,Alameda,8,Calle Jacinto Benavente,57,https://casas.es/malaga/alameda/calle-jacinto-benavente/
+29001,Alameda,9,Calle Enmedio,56,https://casas.es/malaga/alameda/calle-enmedio/
+29001,Alameda,9,Calle la Cruz,56,https://casas.es/malaga/alameda/calle-cruz/
+29002,Alcaucín,1,Calle Buenavista,104,https://casas.es/malaga/alcaucin/calle-buenavista/
+29002,Alcaucín,2,Calle el Olivar de Buenavista,88,https://casas.es/malaga/alcaucin/calle-olivar-de-buenavista/
+29002,Alcaucín,3,Calle Cruce de Don Manuel,86,https://casas.es/malaga/alcaucin/calle-cruce-don-manuel/
+29002,Alcaucín,5,Calle Carril del Alcázar,67,https://casas.es/malaga/alcaucin/calle-carril-del-alcazar/
+29002,Alcaucín,6,Calle Venta Baja,66,https://casas.es/malaga/alcaucin/calle-venta-baja/
+29002,Alcaucín,7,Calle Carrión,55,https://casas.es/malaga/alcaucin/calle-carrion/
+29002,Alcaucín,8,Calle Altos de Alcaucín,50,https://casas.es/malaga/alcaucin/calle-altos-de-alcaucin/
+29002,Alcaucín,9,Paseo las Barriadas,38,https://casas.es/malaga/alcaucin/paseo-barriadas/
+29002,Alcaucín,10,Pago Castillo de Salia,37,https://casas.es/malaga/alcaucin/pago-castillo-de-salia/
+29003,Alfarnate,1,Calle Perchel,54,https://casas.es/malaga/alfarnate/calle-perchel/
+29003,Alfarnate,2,Calle Río,36,https://casas.es/malaga/alfarnate/calle-rio/
+29003,Alfarnate,3,Calle Oriente,33,https://casas.es/malaga/alfarnate/calle-oriente/
+29003,Alfarnate,4,Calle Ermita,32,https://casas.es/malaga/alfarnate/calle-ermita/
+29003,Alfarnate,5,Calle Loja,30,https://casas.es/malaga/alfarnate/calle-loja/
+29003,Alfarnate,6,Calle Carnicería,29,https://casas.es/malaga/alfarnate/calle-carniceria/
+29003,Alfarnate,7,Calle Mediodía,25,https://casas.es/malaga/alfarnate/calle-mediodia/
+29003,Alfarnate,7,Calle Robles,25,https://casas.es/malaga/alfarnate/calle-robles/
+29003,Alfarnate,9,Calle Carretería,21,https://casas.es/malaga/alfarnate/calle-carreteria/
+29003,Alfarnate,10,Calle Triana,20,https://casas.es/malaga/alfarnate/calle-triana/
+29004,Alfarnatejo,1,Calle Iglesia,20,https://casas.es/malaga/alfarnatejo/calle-iglesia/
+29004,Alfarnatejo,2,Calle Real,19,https://casas.es/malaga/alfarnatejo/calle-real/
+29004,Alfarnatejo,3,Calle Padre Arnaiz,15,https://casas.es/malaga/alfarnatejo/calle-padre-arnaiz/
+29004,Alfarnatejo,4,Calle Ancha,11,https://casas.es/malaga/alfarnatejo/calle-ancha/
+29004,Alfarnatejo,5,Calle Llanete,10,https://casas.es/malaga/alfarnatejo/calle-llanete/
+29004,Alfarnatejo,6,Calle Callejones,7,https://casas.es/malaga/alfarnatejo/calle-callejones/
+29004,Alfarnatejo,6,Plaza la Constitución,7,https://casas.es/malaga/alfarnatejo/plaza-constitucion/
+29004,Alfarnatejo,8,Calle Agua,6,https://casas.es/malaga/alfarnatejo/calle-agua/
+29004,Alfarnatejo,9,Calle Feria,4,https://casas.es/malaga/alfarnatejo/calle-feria/
+29005,Algarrobo,1,Avenida Andalucía,870,https://casas.es/malaga/algarrobo/avenida-andalucia/
+29005,Algarrobo,3,Avenida Karat,157,https://casas.es/malaga/algarrobo/avenida-karat/
+29005,Algarrobo,4,Calle Casa Balate,153,https://casas.es/malaga/algarrobo/calle-casa-balate/
+29005,Algarrobo,5,Calle Madreselva,106,https://casas.es/malaga/algarrobo/calle-madreselva/
+29005,Algarrobo,7,Avenida La Pancha,90,https://casas.es/malaga/algarrobo/avenida-pancha/
+29005,Algarrobo,9,Calle Enrique González,81,https://casas.es/malaga/algarrobo/calle-enrique-gonzalez/
+29005,Algarrobo,10,Partida Fuente Ariza,75,https://casas.es/malaga/algarrobo/partida-fuente-ariza/
+29006,Algatocín,1,Avenida Andalucía,63,https://casas.es/malaga/algatocin/avenida-andalucia/
+29006,Algatocín,2,Calle Fuente,35,https://casas.es/malaga/algatocin/calle-fuente/
+29006,Algatocín,3,Calle Iglesia,28,https://casas.es/malaga/algatocin/calle-iglesia/
+29006,Algatocín,4,Calle Plazoleta,25,https://casas.es/malaga/algatocin/calle-plazoleta/
+29006,Algatocín,5,Calle Alta,24,https://casas.es/malaga/algatocin/calle-alta/
+29006,Algatocín,6,Calle Cerería,23,https://casas.es/malaga/algatocin/calle-cereria/
+29006,Algatocín,7,Calle Guardia,21,https://casas.es/malaga/algatocin/calle-guardia/
+29006,Algatocín,8,Calle Churriana,19,https://casas.es/malaga/algatocin/calle-churriana/
+29006,Algatocín,9,Calle Barrio Alto,18,https://casas.es/malaga/algatocin/calle-barrio-alto/
+29006,Algatocín,9,Calle Pérez Jiménez,18,https://casas.es/malaga/algatocin/calle-perez-jimenez/
+29007,Alhaurín de la Torre,2,Avenida Reyes Católicos,284,https://casas.es/malaga/alhaurin-de-la-torre/avenida-reyes-catolicos/
+29007,Alhaurín de la Torre,3,Calle Juan Carlos I,233,https://casas.es/malaga/alhaurin-de-la-torre/calle-juan-carlos-i/
+29007,Alhaurín de la Torre,4,Calle Alegranza,192,https://casas.es/malaga/alhaurin-de-la-torre/calle-alegranza/
+29007,Alhaurín de la Torre,5,Calle Gloria Fuertes,162,https://casas.es/malaga/alhaurin-de-la-torre/calle-gloria-fuertes/
+29007,Alhaurín de la Torre,5,Calle Mar del Norte,162,https://casas.es/malaga/alhaurin-de-la-torre/calle-mar-del-norte/
+29007,Alhaurín de la Torre,9,Avenida Mar Cantábrico,123,https://casas.es/malaga/alhaurin-de-la-torre/avenida-mar-cantabrico/
+29007,Alhaurín de la Torre,9,Calle Juan Sebastián Bach,123,https://casas.es/malaga/alhaurin-de-la-torre/calle-juan-sebastian-bach/
+29008,Alhaurín el Grande,1,Avenida la Libertad,388,https://casas.es/malaga/alhaurin-el-grande/avenida-de-la-libertad/
+29008,Alhaurín el Grande,2,Calle Gerald Brenan,375,https://casas.es/malaga/alhaurin-el-grande/calle-gerald-brenan/
+29008,Alhaurín el Grande,3,Partida Dehesa Baja,274,https://casas.es/malaga/alhaurin-el-grande/partida-dehesa-baja/
+29008,Alhaurín el Grande,4,Carretera de Cártama,213,https://casas.es/malaga/alhaurin-el-grande/carretera-de-cartama/
+29008,Alhaurín el Grande,5,Partida Piegallina,158,https://casas.es/malaga/alhaurin-el-grande/partida-piegallina/
+29008,Alhaurín el Grande,6,Calle Nueva,154,https://casas.es/malaga/alhaurin-el-grande/calle-nueva/
+29008,Alhaurín el Grande,7,Partida Urique,149,https://casas.es/malaga/alhaurin-el-grande/partida-urique/
+29008,Alhaurín el Grande,8,Calle Molinos de Arriba,147,https://casas.es/malaga/alhaurin-el-grande/calle-molinos-de-arriba/
+29008,Alhaurín el Grande,9,Avenida Alcalde Antonio Solano,137,https://casas.es/malaga/alhaurin-el-grande/avenida-alcalde-antonio-solano/
+29008,Alhaurín el Grande,10,Carretera Coín,126,https://casas.es/malaga/alhaurin-el-grande/carretera-coin/
+29009,Almáchar,1,Calle Francisca Hidalgo,57,https://casas.es/malaga/almachar/calle-francisca-hidalgo/
+29009,Almáchar,2,Calle Campillo,49,https://casas.es/malaga/almachar/calle-campillo/
+29009,Almáchar,3,Calle Álamos,45,https://casas.es/malaga/almachar/calle-alamos/
+29009,Almáchar,4,Calle Alta,42,https://casas.es/malaga/almachar/calle-alta/
+29009,Almáchar,4,Calle Mártires,42,https://casas.es/malaga/almachar/calle-martires/
+29009,Almáchar,6,Calle Cabras,37,https://casas.es/malaga/almachar/calle-cabras/
+29009,Almáchar,7,Calle Sevilla,36,https://casas.es/malaga/almachar/calle-sevilla/
+29009,Almáchar,8,Calle Málaga,34,https://casas.es/malaga/almachar/calle-malaga/
+29009,Almáchar,9,Avenida Andalucía,33,https://casas.es/malaga/almachar/avenida-andalucia/
+29009,Almáchar,10,Calle Córdoba,30,https://casas.es/malaga/almachar/calle-cordoba/
+29010,Almargen,1,Avenida el Saucejo,109,https://casas.es/malaga/almargen/avenida-saucejo/
+29010,Almargen,2,Calle Cañada,63,https://casas.es/malaga/almargen/calle-canada/
+29010,Almargen,3,Calle Santa Ana,60,https://casas.es/malaga/almargen/calle-santa-ana/
+29010,Almargen,3,Calle Sevilla,60,https://casas.es/malaga/almargen/calle-sevilla/
+29010,Almargen,5,Avenida Ronda,58,https://casas.es/malaga/almargen/avenida-ronda/
+29010,Almargen,6,Calle Cortina Estación,41,https://casas.es/malaga/almargen/calle-cortina-estacion/
+29010,Almargen,7,Calle Corredera,37,https://casas.es/malaga/almargen/calle-corredera/
+29010,Almargen,7,Calle Juan de Toro,37,https://casas.es/malaga/almargen/calle-juan-de-toro/
+29010,Almargen,7,Calle Muelle,37,https://casas.es/malaga/almargen/calle-muelle/
+29010,Almargen,10,Calle Álamos,35,https://casas.es/malaga/almargen/calle-alamos/
+29011,Almogía,1,Calle Arrabal del Castillo,73,https://casas.es/malaga/almogia/calle-arrabal-del-castillo/
+29011,Almogía,2,Calle Cerrillo,70,https://casas.es/malaga/almogia/calle-cerrillo/
+29011,Almogía,4,Calle Cuesta Campanillas,53,https://casas.es/malaga/almogia/calle-cuesta-campanillas/
+29011,Almogía,5,Calle Cerro,36,https://casas.es/malaga/almogia/calle-cerro/
+29011,Almogía,6,Lugar Fuente Amarga,35,https://casas.es/malaga/almogia/lugar-fuente-amarga/
+29011,Almogía,7,Calle Cristo,33,https://casas.es/malaga/almogia/calle-cristo/
+29011,Almogía,7,Calle Marcelo San Esteban,33,https://casas.es/malaga/almogia/calle-marcelo-san-esteban/
+29011,Almogía,9,Calle Carril,31,https://casas.es/malaga/almogia/calle-carril/
+29012,Álora,1,Avenida la Constitución,212,https://casas.es/malaga/alora/avenida-constitucion/
+29012,Álora,2,Avenida Pablo Ruiz Picasso,140,https://casas.es/malaga/alora/avenida-pablo-ruiz-picasso/
+29012,Álora,3,Avenida Cervantes,134,https://casas.es/malaga/alora/avenida-cervantes/
+29012,Álora,4,Calle Cantarranas,103,https://casas.es/malaga/alora/calle-cantarranas/
+29012,Álora,5,Calle Erillas,102,https://casas.es/malaga/alora/calle-erillas/
+29012,Álora,6,Calle Calvario,95,https://casas.es/malaga/alora/calle-calvario/
+29012,Álora,7,Calle Camino Nuevo,90,https://casas.es/malaga/alora/calle-camino-nuevo/
+29012,Álora,8,Calle Paredillas,76,https://casas.es/malaga/alora/calle-paredillas/
+29012,Álora,9,Calle Chozuelas,75,https://casas.es/malaga/alora/calle-chozuelas/
+29012,Álora,10,Calle Veracruz,73,https://casas.es/malaga/alora/calle-veracruz/
+29013,Alozaina,1,Calle Calvario,102,https://casas.es/malaga/alozaina/calle-calvario/
+29013,Alozaina,2,Calle Veracruz,80,https://casas.es/malaga/alozaina/calle-veracruz/
+29013,Alozaina,3,Calle Coín,67,https://casas.es/malaga/alozaina/calle-coin/
+29013,Alozaina,4,Calle Mesón,64,https://casas.es/malaga/alozaina/calle-meson/
+29013,Alozaina,5,Calle Málaga,58,https://casas.es/malaga/alozaina/calle-malaga/
+29013,Alozaina,5,Calle Parra,58,https://casas.es/malaga/alozaina/calle-parra/
+29013,Alozaina,7,Calle Molino,52,https://casas.es/malaga/alozaina/calle-molino/
+29013,Alozaina,8,Calle Tolox,48,https://casas.es/malaga/alozaina/calle-tolox/
+29013,Alozaina,9,Calle Sierra de las Nieves,33,https://casas.es/malaga/alozaina/calle-sierra-de-las-nieves/
+29013,Alozaina,10,Calle Barrio Hondillo,31,https://casas.es/malaga/alozaina/calle-barrio-hondillo/
+29014,Alpandeire,1,Calle Fray Leopoldo,54,https://casas.es/malaga/alpandeire/calle-fray-leopoldo/
+29014,Alpandeire,2,Calle Doctor Duarte,47,https://casas.es/malaga/alpandeire/calle-doctor-duarte/
+29014,Alpandeire,3,Avenida Andalucía,44,https://casas.es/malaga/alpandeire/avenida-andalucia/
+29014,Alpandeire,4,Calle Barranco,32,https://casas.es/malaga/alpandeire/calle-barranco/
+29014,Alpandeire,5,Calle Pósito,28,https://casas.es/malaga/alpandeire/calle-posito/
+29014,Alpandeire,6,Calle Moral,22,https://casas.es/malaga/alpandeire/calle-moral/
+29014,Alpandeire,7,Calle Pilar,20,https://casas.es/malaga/alpandeire/calle-pilar/
+29014,Alpandeire,9,Travesía Francisco Sánchez Cárdenas,6,https://casas.es/malaga/alpandeire/travesia-francisco-sanchez-cardenas/
+29014,Alpandeire,10,Calle los Almendros,4,https://casas.es/malaga/alpandeire/calle-los-almendros/
+29015,Antequera,1,Calle Infante Don Fernando,311,https://casas.es/malaga/antequera/calle-infante-don-fernando/
+29015,Antequera,2,Calle Alhambra de Granada,305,https://casas.es/malaga/antequera/calle-alhambra-de-granada/
+29015,Antequera,3,Calle Carrera de Madre Carmen,250,https://casas.es/malaga/antequera/calle-carrera-de-madre-carmen/
+29015,Antequera,4,Calle Lucena,211,https://casas.es/malaga/antequera/calle-lucena/
+29015,Antequera,5,Avenida de la Legión,206,https://casas.es/malaga/antequera/avenida-de-la-legion/
+29015,Antequera,6,Calle Alameda de Andalucía,202,https://casas.es/malaga/antequera/calle-alameda-de-andalucia/
+29015,Antequera,7,Calle San Pedro,193,https://casas.es/malaga/antequera/calle-san-pedro/
+29015,Antequera,8,Calle Obispo,187,https://casas.es/malaga/antequera/calle-obispo/
+29015,Antequera,9,Calle Manuel de Aguilar,173,https://casas.es/malaga/antequera/calle-manuel-de-aguilar/
+29015,Antequera,10,Calle Carreteros,171,https://casas.es/malaga/antequera/calle-carreteros/
+29016,Árchez,1,Calle Navas Moyano,36,https://casas.es/malaga/archez/calle-navas-moyano/
+29016,Árchez,2,Calle la Cruz,23,https://casas.es/malaga/archez/calle-cruz/
+29016,Árchez,3,Calle Trinidad,21,https://casas.es/malaga/archez/calle-trinidad/
+29016,Árchez,4,Calle Alta,17,https://casas.es/malaga/archez/calle-alta/
+29016,Árchez,5,Calle Peligros,16,https://casas.es/malaga/archez/calle-peligros/
+29016,Árchez,6,Calle la Gloria,15,https://casas.es/malaga/archez/calle-gloria/
+29016,Árchez,7,Calle Pilar,14,https://casas.es/malaga/archez/calle-pilar/
+29016,Árchez,8,Avenida Andalucía,13,https://casas.es/malaga/archez/avenida-andalucia/
+29016,Árchez,9,Calle Álamos,11,https://casas.es/malaga/archez/calle-alamos/
+29017,Archidona,1,Calle Nueva,216,https://casas.es/malaga/archidona/calle-nueva/
+29017,Archidona,2,Avenida Llano de Pablo Picasso,193,https://casas.es/malaga/archidona/avenida-llano-de-pablo-picasso/
+29017,Archidona,3,Calle Carrera,185,https://casas.es/malaga/archidona/calle-carrera/
+29017,Archidona,4,Calle Virgen de Gracia,130,https://casas.es/malaga/archidona/calle-virgen-de-gracia/
+29017,Archidona,5,Calle Almohalla,94,https://casas.es/malaga/archidona/calle-almohalla/
+29017,Archidona,5,Calle Don Carlos,94,https://casas.es/malaga/archidona/calle-don-carlos/
+29017,Archidona,7,Calle Santo Domingo,90,https://casas.es/malaga/archidona/calle-santo-domingo/
+29017,Archidona,8,Calle Ejido,87,https://casas.es/malaga/archidona/calle-ejido/
+29017,Archidona,9,Calle Granada,85,https://casas.es/malaga/archidona/calle-granada/
+29017,Archidona,10,Calle Siles,80,https://casas.es/malaga/archidona/calle-siles/
+29018,Ardales,1,Calle Cantarranas,124,https://casas.es/malaga/ardales/calle-cantarranas/
+29018,Ardales,2,Calle Andrades Navarrete,92,https://casas.es/malaga/ardales/calle-andrades-navarrete/
+29018,Ardales,3,Calle Nueva,70,https://casas.es/malaga/ardales/calle-nueva/
+29018,Ardales,4,Calle Iglesia,62,https://casas.es/malaga/ardales/calle-iglesia/
+29018,Ardales,5,Calle Real,61,https://casas.es/malaga/ardales/calle-real/
+29018,Ardales,6,Calle los Carros,52,https://casas.es/malaga/ardales/calle-carros/
+29018,Ardales,6,Calle Portugalete,52,https://casas.es/malaga/ardales/calle-portugalete/
+29018,Ardales,8,Calle Córdoba,50,https://casas.es/malaga/ardales/calle-cordoba/
+29018,Ardales,9,Calle Cerrillo,47,https://casas.es/malaga/ardales/calle-cerrillo/
+29018,Ardales,10,Calle Fray Juan,43,https://casas.es/malaga/ardales/calle-fray-juan/
+29019,Arenas,1,Calle Cantarranas,37,https://casas.es/malaga/arenas/calle-cantarranas/
+29019,Arenas,2,Calle Andalucía,30,https://casas.es/malaga/arenas/calle-andalucia/
+29019,Arenas,3,Calle Risco,27,https://casas.es/malaga/arenas/calle-risco/
+29019,Arenas,4,Calle Enmedio,19,https://casas.es/malaga/arenas/calle-enmedio/
+29019,Arenas,5,Calle Consejo,17,https://casas.es/malaga/arenas/calle-consejo/
+29019,Arenas,5,Calle Perchel,17,https://casas.es/malaga/arenas/calle-perchel/
+29019,Arenas,7,Calle El Tiesto,16,https://casas.es/malaga/arenas/calle-tiesto/
+29019,Arenas,7,Calle Pocilla,16,https://casas.es/malaga/arenas/calle-pocilla/
+29019,Arenas,9,Calle Arroyo Alto,15,https://casas.es/malaga/arenas/calle-arroyo-alto/
+29020,Arriate,1,Calle Málaga,114,https://casas.es/malaga/arriate/calle-malaga/
+29020,Arriate,2,Calle Casas Nuevas,85,https://casas.es/malaga/arriate/calle-casas-nuevas/
+29020,Arriate,3,Calle Ronda,69,https://casas.es/malaga/arriate/calle-ronda/
+29020,Arriate,4,Calle la Habana,68,https://casas.es/malaga/arriate/calle-habana/
+29020,Arriate,5,Calle Manuel Cabrera,57,https://casas.es/malaga/arriate/calle-manuel-cabrera/
+29020,Arriate,6,Calle Clara Campoamor,55,https://casas.es/malaga/arriate/calle-clara-campoamor/
+29020,Arriate,7,Calle Marbella,49,https://casas.es/malaga/arriate/calle-marbella/
+29020,Arriate,8,Calle Huerto,47,https://casas.es/malaga/arriate/calle-huerto/
+29020,Arriate,9,Calle la Fuente,42,https://casas.es/malaga/arriate/calle-fuente/
+29021,Atajate,1,Calle Nueva,40,https://casas.es/malaga/atajate/calle-nueva/
+29021,Atajate,3,Plaza la Constitución,21,https://casas.es/malaga/atajate/plaza-constitucion/
+29021,Atajate,4,Calle Barrio Alto,17,https://casas.es/malaga/atajate/calle-barrio-alto/
+29021,Atajate,5,Calle los Tajos,12,https://casas.es/malaga/atajate/calle-tajos/
+29021,Atajate,6,Calle la Fuente,11,https://casas.es/malaga/atajate/calle-fuente/
+29021,Atajate,6,Calle Sauquillos,11,https://casas.es/malaga/atajate/calle-sauquillos/
+29021,Atajate,8,Calle Binaloz,10,https://casas.es/malaga/atajate/calle-binaloz/
+29021,Atajate,9,Calle Vieja,8,https://casas.es/malaga/atajate/calle-vieja/
+29022,Benadalid,1,Calle Real,43,https://casas.es/malaga/benadalid/calle-real/
+29022,Benadalid,3,Calle Fuente,18,https://casas.es/malaga/benadalid/calle-fuente/
+29022,Benadalid,4,Calle Harina,17,https://casas.es/malaga/benadalid/calle-harina/
+29022,Benadalid,4,Calle San Isidoro,17,https://casas.es/malaga/benadalid/calle-san-isidoro/
+29022,Benadalid,6,Calle Clavero,16,https://casas.es/malaga/benadalid/calle-clavero/
+29022,Benadalid,7,Calle Carnicería,14,https://casas.es/malaga/benadalid/calle-carniceria/
+29022,Benadalid,8,Calle Aguayar,11,https://casas.es/malaga/benadalid/calle-aguayar/
+29022,Benadalid,9,Calle General Ros,10,https://casas.es/malaga/benadalid/calle-general-ros/
+29022,Benadalid,9,Calle Horno,10,https://casas.es/malaga/benadalid/calle-horno/
+29023,Benahavís,1,Avenida de la Alquería,391,https://casas.es/malaga/benahavis/avenida-de-la-alqueria/
+29023,Benahavís,2,Calle los Arqueros,341,https://casas.es/malaga/benahavis/calle-arqueros/
+29023,Benahavís,3,Avenida Tomás Pascual,313,https://casas.es/malaga/benahavis/avenida-tomas-pascual/
+29023,Benahavís,4,Calle Marqués de Muñiz,294,https://casas.es/malaga/benahavis/calle-marques-de-muniz/
+29023,Benahavís,5,Avenida del Mar,288,https://casas.es/malaga/benahavis/avenida-del-mar/
+29023,Benahavís,7,Carretera de Benahavís,203,https://casas.es/malaga/benahavis/carretera-de-benahavis/
+29023,Benahavís,8,Calle Hernán Cortés,195,https://casas.es/malaga/benahavis/calle-hernan-cortes/
+29024,Benalauría,1,Calle Alta,87,https://casas.es/malaga/benalauria/calle-alta/
+29024,Benalauría,2,Calle Moraleda,43,https://casas.es/malaga/benalauria/calle-moraleda/
+29024,Benalauría,3,Calle Cruz,27,https://casas.es/malaga/benalauria/calle-cruz/
+29024,Benalauría,4,Calle Iglesia,23,https://casas.es/malaga/benalauria/calle-iglesia/
+29024,Benalauría,5,Calle Estación,20,https://casas.es/malaga/benalauria/calle-estacion/
+29024,Benalauría,6,Calle Calvario,18,https://casas.es/malaga/benalauria/calle-calvario/
+29024,Benalauría,6,Calle Fuente,18,https://casas.es/malaga/benalauria/calle-fuente/
+29024,Benalauría,8,Partida las Vegas,16,https://casas.es/malaga/benalauria/partida-las-vegas/
+29025,Benalmádena,1,Avenida Gamonal,2692,https://casas.es/malaga/benalmadena/avenida-gamonal/
+29025,Benalmádena,2,Avenida del Sol,1628,https://casas.es/malaga/benalmadena/avenida-del-sol/
+29025,Benalmádena,3,Avenida Antonio Machado,1433,https://casas.es/malaga/benalmadena/avenida-antonio-machado/
+29025,Benalmádena,5,Avenida Manuel Mena Palma,779,https://casas.es/malaga/benalmadena/avenida-manuel-mena-palma/
+29025,Benalmádena,6,Avenida las Palmeras,751,https://casas.es/malaga/benalmadena/avenida-palmeras/
+29025,Benalmádena,8,Avenida Inmaculada Concepción,640,https://casas.es/malaga/benalmadena/avenida-inmaculada-concepcion/
+29025,Benalmádena,9,Calle Luis Vives,567,https://casas.es/malaga/benalmadena/calle-luis-vives/
+29025,Benalmádena,10,Avenida Terramar Alto,491,https://casas.es/malaga/benalmadena/avenida-terramar-alto/
+29026,Benamargosa,1,Calle Nueva,44,https://casas.es/malaga/benamargosa/calle-nueva/
+29026,Benamargosa,2,Calle Federico García Lorca,38,https://casas.es/malaga/benamargosa/calle-federico-garcia-lorca/
+29026,Benamargosa,3,Calle Arroyo Limón,36,https://casas.es/malaga/benamargosa/calle-arroyo-limon/
+29026,Benamargosa,4,Calle Callejones,35,https://casas.es/malaga/benamargosa/calle-callejones/
+29026,Benamargosa,5,Calle Ermita,34,https://casas.es/malaga/benamargosa/calle-ermita/
+29026,Benamargosa,6,Calle Arroyo Alpechín,30,https://casas.es/malaga/benamargosa/calle-arroyo-alpechin/
+29026,Benamargosa,7,Calle Manga,29,https://casas.es/malaga/benamargosa/calle-manga/
+29026,Benamargosa,8,Calle Félix Lomas,28,https://casas.es/malaga/benamargosa/calle-felix-lomas/
+29026,Benamargosa,9,Calle Real,23,https://casas.es/malaga/benamargosa/calle-real/
+29026,Benamargosa,9,Calle San Sebastián,23,https://casas.es/malaga/benamargosa/calle-san-sebastian/
+29027,Benamocarra,1,Calle Málaga,62,https://casas.es/malaga/benamocarra/calle-malaga/
+29027,Benamocarra,2,Calle la Libertad,55,https://casas.es/malaga/benamocarra/calle-libertad/
+29027,Benamocarra,3,Calle Pilar,49,https://casas.es/malaga/benamocarra/calle-pilar/
+29027,Benamocarra,4,Calle Nueva,41,https://casas.es/malaga/benamocarra/calle-nueva/
+29027,Benamocarra,5,Calle Federico García Lorca,40,https://casas.es/malaga/benamocarra/calle-federico-garcia-lorca/
+29027,Benamocarra,5,Calle Fuente de la Cruz,40,https://casas.es/malaga/benamocarra/calle-fuente-de-la-cruz/
+29027,Benamocarra,7,Calle Carril,39,https://casas.es/malaga/benamocarra/calle-carril/
+29027,Benamocarra,8,Avenida Blas Infante,37,https://casas.es/malaga/benamocarra/avenida-blas-infante/
+29027,Benamocarra,9,Calle Milagros,36,https://casas.es/malaga/benamocarra/calle-milagros/
+29027,Benamocarra,10,Calle Molino Alto,33,https://casas.es/malaga/benamocarra/calle-molino-alto/
+29028,Benaoján,1,Calle Fuente,102,https://casas.es/malaga/benaojan/calle-fuente/
+29028,Benaoján,2,Calle Barrio Alto,69,https://casas.es/malaga/benaojan/calle-barrio-alto/
+29028,Benaoján,3,Calle Presbítero José Moreno,66,https://casas.es/malaga/benaojan/calle-presbitero-jose-moreno/
+29028,Benaoján,4,Avenida Constitución,58,https://casas.es/malaga/benaojan/avenida-constitucion/
+29028,Benaoján,5,Calle Joaquín Castaño Pérez,47,https://casas.es/malaga/benaojan/calle-joaquin-castano-perez/
+29028,Benaoján,6,Calle Estraperlo,42,https://casas.es/malaga/benaojan/calle-estraperlo/
+29028,Benaoján,7,Avenida Roda de Bara,38,https://casas.es/malaga/benaojan/avenida-roda-de-bara/
+29028,Benaoján,8,Calle la Línea,37,https://casas.es/malaga/benaojan/calle-linea/
+29028,Benaoján,9,Calle Escambrones,35,https://casas.es/malaga/benaojan/calle-escambrones/
+29028,Benaoján,10,Calle Moralillos,30,https://casas.es/malaga/benaojan/calle-moralillos/
+29029,Benarrabá,1,Calle Calzada,50,https://casas.es/malaga/benarraba/calle-calzada/
+29029,Benarrabá,2,Calle Cerro,37,https://casas.es/malaga/benarraba/calle-cerro/
+29029,Benarrabá,2,Calle Ronda,37,https://casas.es/malaga/benarraba/calle-ronda/
+29029,Benarrabá,4,Calle Toledillo,36,https://casas.es/malaga/benarraba/calle-toledillo/
+29029,Benarrabá,5,Calle Pósito,26,https://casas.es/malaga/benarraba/calle-posito/
+29029,Benarrabá,6,Calle Cuartilla,22,https://casas.es/malaga/benarraba/calle-cuartilla/
+29029,Benarrabá,6,Calle Estación,22,https://casas.es/malaga/benarraba/calle-estacion/
+29029,Benarrabá,8,Calle Campillo,20,https://casas.es/malaga/benarraba/calle-campillo/
+29029,Benarrabá,9,Plaza Veracruz,18,https://casas.es/malaga/benarraba/plaza-veracruz/
+29032,Campillos,1,Calle Real,181,https://casas.es/malaga/campillos/calle-real/
+29032,Campillos,2,Avenida Constitución,163,https://casas.es/malaga/campillos/avenida-constitucion/
+29032,Campillos,3,Calle San Benito,140,https://casas.es/malaga/campillos/calle-san-benito/
+29032,Campillos,4,Calle San Sebastián,116,https://casas.es/malaga/campillos/calle-san-sebastian/
+29032,Campillos,5,Calle Silla,110,https://casas.es/malaga/campillos/calle-silla/
+29032,Campillos,6,Calle Alta,107,https://casas.es/malaga/campillos/calle-alta/
+29032,Campillos,7,Calle Guzmanes,106,https://casas.es/malaga/campillos/calle-guzmanes/
+29032,Campillos,8,Calle Antonio Llamas Campos,102,https://casas.es/malaga/campillos/calle-antonio-llamas-campos/
+29032,Campillos,8,Calle Salgueros,102,https://casas.es/malaga/campillos/calle-salgueros/
+29032,Campillos,10,Calle Lavados,99,https://casas.es/malaga/campillos/calle-lavados/
+29035,Cañete la Real,1,Calle Marien,76,https://casas.es/malaga/canete-la-real/calle-marien/
+29035,Cañete la Real,2,Calle Ronda,69,https://casas.es/malaga/canete-la-real/calle-ronda/
+29035,Cañete la Real,3,Calle Alameda,51,https://casas.es/malaga/canete-la-real/calle-alameda/
+29035,Cañete la Real,4,Calle Santa Ana,43,https://casas.es/malaga/canete-la-real/calle-santa-ana/
+29035,Cañete la Real,5,Calle Francisco Arjona,41,https://casas.es/malaga/canete-la-real/calle-francisco-arjona/
+29035,Cañete la Real,5,Calle los Remedios,41,https://casas.es/malaga/canete-la-real/calle-remedios/
+29035,Cañete la Real,7,Calle Grande,38,https://casas.es/malaga/canete-la-real/calle-grande/
+29035,Cañete la Real,7,Calle Nueva,38,https://casas.es/malaga/canete-la-real/calle-nueva/
+29035,Cañete la Real,9,Calle Barrio Alto,37,https://casas.es/malaga/canete-la-real/calle-barrio-alto/
+29035,Cañete la Real,10,Calle Sevilla,36,https://casas.es/malaga/canete-la-real/calle-sevilla/
+29033,Canillas de Aceituno,1,Calle Convento,40,https://casas.es/malaga/canillas-de-aceituno/calle-convento/
+29033,Canillas de Aceituno,2,Calle Huertezuelo,38,https://casas.es/malaga/canillas-de-aceituno/calle-huertezuelo/
+29033,Canillas de Aceituno,3,Calle Agua,37,https://casas.es/malaga/canillas-de-aceituno/calle-agua/
+29033,Canillas de Aceituno,4,Calle Estación,35,https://casas.es/malaga/canillas-de-aceituno/calle-estacion/
+29033,Canillas de Aceituno,5,Calle Camino del Nícar,31,https://casas.es/malaga/canillas-de-aceituno/calle-camino-del-nicar/
+29033,Canillas de Aceituno,6,Calle Alta,30,https://casas.es/malaga/canillas-de-aceituno/calle-alta/
+29033,Canillas de Aceituno,6,Calle Llanillo,30,https://casas.es/malaga/canillas-de-aceituno/calle-llanillo/
+29033,Canillas de Aceituno,6,Calle Parras,30,https://casas.es/malaga/canillas-de-aceituno/calle-parras/
+29033,Canillas de Aceituno,9,Calle Ejido,29,https://casas.es/malaga/canillas-de-aceituno/calle-ejido/
+29034,Canillas de Albaida,1,Calle Estación,52,https://casas.es/malaga/canillas-de-albaida/calle-estacion/
+29034,Canillas de Albaida,2,Calle Carril de Santana,44,https://casas.es/malaga/canillas-de-albaida/calle-carril-de-santana/
+29034,Canillas de Albaida,3,Calle Agua,37,https://casas.es/malaga/canillas-de-albaida/calle-agua/
+29034,Canillas de Albaida,4,Calle la Fuente,30,https://casas.es/malaga/canillas-de-albaida/calle-fuente/
+29034,Canillas de Albaida,5,Calle la Axarquía,21,https://casas.es/malaga/canillas-de-albaida/calle-axarquia/
+29034,Canillas de Albaida,6,Calle Alta,20,https://casas.es/malaga/canillas-de-albaida/calle-alta/
+29034,Canillas de Albaida,7,Calle Segovia,19,https://casas.es/malaga/canillas-de-albaida/calle-segovia/
+29034,Canillas de Albaida,8,Calle Teniente Fernández Pérez,17,https://casas.es/malaga/canillas-de-albaida/calle-teniente-fernandez-perez/
+29036,Carratraca,1,Calle Málaga,68,https://casas.es/malaga/carratraca/calle-malaga/
+29036,Carratraca,2,Calle Iglesia,52,https://casas.es/malaga/carratraca/calle-iglesia/
+29036,Carratraca,3,Calle Andalucía,41,https://casas.es/malaga/carratraca/calle-andalucia/
+29036,Carratraca,4,Calle Higuera,23,https://casas.es/malaga/carratraca/calle-higuera/
+29036,Carratraca,5,Calle Nuestra Señora de la Salud,20,https://casas.es/malaga/carratraca/calle-nuestra-senora-de-la-salud/
+29036,Carratraca,6,Calle Alta,19,https://casas.es/malaga/carratraca/calle-alta/
+29036,Carratraca,7,Avenida Antonio Rioboo,15,https://casas.es/malaga/carratraca/avenida-antonio-rioboo/
+29036,Carratraca,7,Calle Baños,15,https://casas.es/malaga/carratraca/calle-banos/
+29036,Carratraca,9,Calle Glorieta,14,https://casas.es/malaga/carratraca/calle-glorieta/
+29036,Carratraca,10,Calle Nueva,12,https://casas.es/malaga/carratraca/calle-nueva/
+29037,Cartajima,1,Calle Ancha,38,https://casas.es/malaga/cartajima/calle-ancha/
+29037,Cartajima,2,Calle Nueva,30,https://casas.es/malaga/cartajima/calle-nueva/
+29037,Cartajima,3,Calle Iglesias,29,https://casas.es/malaga/cartajima/calle-iglesias/
+29037,Cartajima,4,Calle Padre Francisco Rodríguez Gallegos,20,https://casas.es/malaga/cartajima/calle-padre-francisco-rodriguez-gallegos/
+29037,Cartajima,5,Calle Alta,16,https://casas.es/malaga/cartajima/calle-alta/
+29037,Cartajima,6,Calle Ronda,15,https://casas.es/malaga/cartajima/calle-ronda/
+29037,Cartajima,7,Calle Serrillo,10,https://casas.es/malaga/cartajima/calle-serrillo/
+29037,Cartajima,8,Calle Bandolero Andrés García,7,https://casas.es/malaga/cartajima/calle-bandolero-andres-garcia/
+29037,Cartajima,9,Calle la Tahona,6,https://casas.es/malaga/cartajima/calle-tahona/
+29037,Cartajima,9,Calle Padre Francisco Rodríguez,6,https://casas.es/malaga/cartajima/calle-padre-francisco-rodriguez/
+29038,Cártama,1,Avenida de Andalucía,190,https://casas.es/malaga/cartama/avenida-de-andalucia/
+29038,Cártama,2,Calle González Marín,178,https://casas.es/malaga/cartama/calle-gonzalez-marin/
+29038,Cártama,3,Calle Arquímedes,152,https://casas.es/malaga/cartama/calle-arquimedes/
+29038,Cártama,5,Calle Londres,135,https://casas.es/malaga/cartama/calle-londres/
+29038,Cártama,6,Calle Concepción,134,https://casas.es/malaga/cartama/calle-concepcion/
+29038,Cártama,7,Calle Goya,133,https://casas.es/malaga/cartama/calle-goya/
+29038,Cártama,8,Calle Monet,127,https://casas.es/malaga/cartama/calle-monet/
+29038,Cártama,9,Calle Juan Carlos I,121,https://casas.es/malaga/cartama/calle-juan-carlos-i/
+29039,Casabermeja,1,Calle Real,106,https://casas.es/malaga/casabermeja/calle-real/
+29039,Casabermeja,2,Calle San Sebastián,64,https://casas.es/malaga/casabermeja/calle-san-sebastian/
+29039,Casabermeja,3,Calle Llana,47,https://casas.es/malaga/casabermeja/calle-llana/
+29039,Casabermeja,4,Calle Domingo de Flores,45,https://casas.es/malaga/casabermeja/calle-domingo-de-flores/
+29039,Casabermeja,5,Calle Camino de Colmenar,44,https://casas.es/malaga/casabermeja/calle-camino-de-colmenar/
+29039,Casabermeja,6,Calle Nueva,43,https://casas.es/malaga/casabermeja/calle-nueva/
+29039,Casabermeja,7,Calle Paseo Puerto de la Horca,42,https://casas.es/malaga/casabermeja/calle-paseo-puerto-de-la-horca/
+29039,Casabermeja,8,Calle Paseo Monte de la Cruz,37,https://casas.es/malaga/casabermeja/calle-paseo-monte-de-la-cruz/
+29039,Casabermeja,9,Calle Camacha,36,https://casas.es/malaga/casabermeja/calle-camacha/
+29039,Casabermeja,10,Calle el Portón,34,https://casas.es/malaga/casabermeja/calle-porton/
+29040,Casarabonela,1,Avenida Juan XXIII,72,https://casas.es/malaga/casarabonela/avenida-juan-xxiii/
+29040,Casarabonela,2,Calle Puerta de Hierro,59,https://casas.es/malaga/casarabonela/calle-puerta-de-hierro/
+29040,Casarabonela,3,Calle José Hidalgo,53,https://casas.es/malaga/casarabonela/calle-jose-hidalgo/
+29040,Casarabonela,4,Avenida Federico Muñoz,52,https://casas.es/malaga/casarabonela/avenida-federico-munoz/
+29040,Casarabonela,5,Avenida Fernando Díaz Herrero,48,https://casas.es/malaga/casarabonela/avenida-fernando-diaz-herrero/
+29040,Casarabonela,6,Calle Saldaña,40,https://casas.es/malaga/casarabonela/calle-saldana/
+29040,Casarabonela,7,Calle Veracruz,39,https://casas.es/malaga/casarabonela/calle-veracruz/
+29040,Casarabonela,8,Calle la Cruz,37,https://casas.es/malaga/casarabonela/calle-cruz/
+29040,Casarabonela,9,Calle Albaiva,36,https://casas.es/malaga/casarabonela/calle-albaiva/
+29040,Casarabonela,9,Calle Juan Vera Campos,36,https://casas.es/malaga/casarabonela/calle-juan-vera-campos/
+29041,Casares,1,Calle Oliva,347,https://casas.es/malaga/casares/calle-oliva/
+29041,Casares,3,Calle Monte,110,https://casas.es/malaga/casares/calle-monte/
+29041,Casares,4,Calle Coperas,96,https://casas.es/malaga/casares/calle-coperas/
+29041,Casares,5,Calle Carrera,95,https://casas.es/malaga/casares/calle-carrera/
+29041,Casares,6,Calle Arrabal,89,https://casas.es/malaga/casares/calle-arrabal/
+29041,Casares,7,Calle Barrio Bajo,88,https://casas.es/malaga/casares/calle-barrio-bajo/
+29041,Casares,8,Calle Camachas,86,https://casas.es/malaga/casares/calle-camachas/
+29041,Casares,9,Calle Molinos,85,https://casas.es/malaga/casares/calle-molinos/
+29042,Coín,1,Calle Padre Jiménez López,274,https://casas.es/malaga/coin/calle-padre-jimenez-lopez/
+29042,Coín,2,Calle General Rincón,247,https://casas.es/malaga/coin/calle-general-rincon/
+29042,Coín,3,Calle Antequera,220,https://casas.es/malaga/coin/calle-antequera/
+29042,Coín,4,Calle Espíritu Santo,193,https://casas.es/malaga/coin/calle-espiritu-santo/
+29042,Coín,5,Partida Huertas Viejas,189,https://casas.es/malaga/coin/partida-huertas-viejas/
+29042,Coín,6,Partida los Llanos,138,https://casas.es/malaga/coin/partida-los-llanos/
+29042,Coín,7,Partida Valdeperales,136,https://casas.es/malaga/coin/partida-valdeperales/
+29042,Coín,8,Calle Matías García,134,https://casas.es/malaga/coin/calle-matias-garcia/
+29042,Coín,9,Avenida Reina Sofía,132,https://casas.es/malaga/coin/avenida-reina-sofia/
+29042,Coín,10,Calle La Cruz,108,https://casas.es/malaga/coin/calle-cruz/
+29043,Colmenar,1,Calle Camino de Málaga,88,https://casas.es/malaga/colmenar/calle-camino-de-malaga/
+29043,Colmenar,2,Calle Ermita,57,https://casas.es/malaga/colmenar/calle-ermita/
+29043,Colmenar,3,Calle Triana,48,https://casas.es/malaga/colmenar/calle-triana/
+29043,Colmenar,4,Calle Zarza,42,https://casas.es/malaga/colmenar/calle-zarza/
+29043,Colmenar,5,Calle Blas Infante,41,https://casas.es/malaga/colmenar/calle-blas-infante/
+29043,Colmenar,5,Calle el Cura,41,https://casas.es/malaga/colmenar/calle-cura/
+29043,Colmenar,7,Calle Empedrada,40,https://casas.es/malaga/colmenar/calle-empedrada/
+29043,Colmenar,8,Calle Carretera Granada,37,https://casas.es/malaga/colmenar/calle-carretera-granada/
+29043,Colmenar,9,Calle la Ñora,32,https://casas.es/malaga/colmenar/calle-nora/
+29043,Colmenar,10,Calle Imagen,31,https://casas.es/malaga/colmenar/calle-imagen/
+29044,Comares,1,Calle Iglesia,30,https://casas.es/malaga/comares/calle-iglesia/
+29044,Comares,1,Calle Levante,30,https://casas.es/malaga/comares/calle-levante/
+29044,Comares,3,Calle Hospitalillo,27,https://casas.es/malaga/comares/calle-hospitalillo/
+29044,Comares,4,Lugar Encinillas,21,https://casas.es/malaga/comares/lugar-encinillas/
+29044,Comares,5,Calle de Alcuzas,20,https://casas.es/malaga/comares/calle-de-alcuzas/
+29044,Comares,6,Calle Hotel Bali,18,https://casas.es/malaga/comares/calle-hotel-bali/
+29044,Comares,7,Calle del Perdón,17,https://casas.es/malaga/comares/calle-del-perdon/
+29044,Comares,8,Calle los Verdiales,15,https://casas.es/malaga/comares/calle-verdiales/
+29044,Comares,8,Calle Peñantona,15,https://casas.es/malaga/comares/calle-penantona/
+29045,Cómpeta,1,Calle San Antonio,102,https://casas.es/malaga/competa/calle-san-antonio/
+29045,Cómpeta,2,Avenida de la Constitución,83,https://casas.es/malaga/competa/avenida-de-la-constitucion/
+29045,Cómpeta,3,Avenida de Canillas,78,https://casas.es/malaga/competa/avenida-de-canillas/
+29045,Cómpeta,4,Avenida de Nerja,76,https://casas.es/malaga/competa/avenida-de-nerja/
+29045,Cómpeta,5,Calle José Antonio,67,https://casas.es/malaga/competa/calle-jose-antonio/
+29045,Cómpeta,6,Calle Paco Hernández,55,https://casas.es/malaga/competa/calle-paco-hernandez/
+29045,Cómpeta,6,Calle Peligros,55,https://casas.es/malaga/competa/calle-peligros/
+29045,Cómpeta,8,Calle Horno,54,https://casas.es/malaga/competa/calle-horno/
+29045,Cómpeta,9,Avenida de Torrox,53,https://casas.es/malaga/competa/avenida-de-torrox/
+29045,Cómpeta,10,Calle Panaderos,48,https://casas.es/malaga/competa/calle-panaderos/
+29046,Cortes de la Frontera,1,Calle Real Tesoro,143,https://casas.es/malaga/cortes-de-la-frontera/calle-real-tesoro/
+29046,Cortes de la Frontera,2,Avenida de la Libertad,110,https://casas.es/malaga/cortes-de-la-frontera/avenida-de-libertad/
+29046,Cortes de la Frontera,3,Calle Real,91,https://casas.es/malaga/cortes-de-la-frontera/calle-real/
+29046,Cortes de la Frontera,4,Calle San Sebastián,60,https://casas.es/malaga/cortes-de-la-frontera/calle-san-sebastian/
+29046,Cortes de la Frontera,5,Avenida Santiago,58,https://casas.es/malaga/cortes-de-la-frontera/avenida-santiago/
+29046,Cortes de la Frontera,6,Calle Alcantarilla,56,https://casas.es/malaga/cortes-de-la-frontera/calle-alcantarilla/
+29046,Cortes de la Frontera,7,Plaza Andalucía,54,https://casas.es/malaga/cortes-de-la-frontera/plaza-andalucia/
+29046,Cortes de la Frontera,8,Calle Balcón,53,https://casas.es/malaga/cortes-de-la-frontera/calle-balcon/
+29046,Cortes de la Frontera,9,Calle Toledillo,44,https://casas.es/malaga/cortes-de-la-frontera/calle-toledillo/
+29046,Cortes de la Frontera,10,Avenida Paseo de los Naranjos,41,https://casas.es/malaga/cortes-de-la-frontera/avenida-paseo-de-los-naranjos/
+29047,Cuevas Bajas,1,Calle Real,132,https://casas.es/malaga/cuevas-bajas/calle-real/
+29047,Cuevas Bajas,2,Calle Victoria,92,https://casas.es/malaga/cuevas-bajas/calle-victoria/
+29047,Cuevas Bajas,3,Calle la Venta,64,https://casas.es/malaga/cuevas-bajas/calle-venta/
+29047,Cuevas Bajas,4,Calle Archidona,61,https://casas.es/malaga/cuevas-bajas/calle-archidona/
+29047,Cuevas Bajas,5,Calle Villanueva de Algaidas,50,https://casas.es/malaga/cuevas-bajas/calle-villanueva-de-algaidas/
+29047,Cuevas Bajas,6,Calle Nueva,43,https://casas.es/malaga/cuevas-bajas/calle-nueva/
+29047,Cuevas Bajas,7,Calle Río,33,https://casas.es/malaga/cuevas-bajas/calle-rio/
+29047,Cuevas Bajas,8,Calle la Cruz,31,https://casas.es/malaga/cuevas-bajas/calle-cruz/
+29047,Cuevas Bajas,9,Calle Miguel Hernández,29,https://casas.es/malaga/cuevas-bajas/calle-miguel-hernandez/
+29047,Cuevas Bajas,10,Calle Rafael Alberti,24,https://casas.es/malaga/cuevas-bajas/calle-rafael-alberti/
+29049,Cuevas de San Marcos,1,Calle Pablo Iglesias,82,https://casas.es/malaga/cuevas-de-san-marcos/calle-pablo-iglesias/
+29049,Cuevas de San Marcos,2,Calle Málaga,71,https://casas.es/malaga/cuevas-de-san-marcos/calle-malaga/
+29049,Cuevas de San Marcos,3,Calle Granada,68,https://casas.es/malaga/cuevas-de-san-marcos/calle-granada/
+29049,Cuevas de San Marcos,4,Calle Molinos,64,https://casas.es/malaga/cuevas-de-san-marcos/calle-molinos/
+29049,Cuevas de San Marcos,5,Calle Fresca,59,https://casas.es/malaga/cuevas-de-san-marcos/calle-fresca/
+29049,Cuevas de San Marcos,6,Calle Don Antonio Benítez,55,https://casas.es/malaga/cuevas-de-san-marcos/calle-don-antonio-benitez/
+29049,Cuevas de San Marcos,7,Calle Don José Compaña,54,https://casas.es/malaga/cuevas-de-san-marcos/calle-don-jose-compana/
+29049,Cuevas de San Marcos,8,Avenida Morana,53,https://casas.es/malaga/cuevas-de-san-marcos/avenida-morana/
+29049,Cuevas de San Marcos,8,Avenida Pablo Picasso,53,https://casas.es/malaga/cuevas-de-san-marcos/avenida-pablo-picasso/
+29048,Cuevas del Becerro,1,Calle Real,183,https://casas.es/malaga/cuevas-del-becerro/calle-real/
+29048,Cuevas del Becerro,2,Calle Andalucía,115,https://casas.es/malaga/cuevas-del-becerro/calle-andalucia/
+29048,Cuevas del Becerro,3,Calle Nueva,58,https://casas.es/malaga/cuevas-del-becerro/calle-nueva/
+29048,Cuevas del Becerro,4,Calle los Jardines,40,https://casas.es/malaga/cuevas-del-becerro/calle-jardines/
+29048,Cuevas del Becerro,5,Calle Virgen del Pilar,39,https://casas.es/malaga/cuevas-del-becerro/calle-virgen-del-pilar/
+29048,Cuevas del Becerro,6,Calle San José,34,https://casas.es/malaga/cuevas-del-becerro/calle-san-jose/
+29048,Cuevas del Becerro,7,Calle San Gregorio,33,https://casas.es/malaga/cuevas-del-becerro/calle-san-gregorio/
+29048,Cuevas del Becerro,8,Calle Horno,30,https://casas.es/malaga/cuevas-del-becerro/calle-horno/
+29048,Cuevas del Becerro,9,Calle Constitución,29,https://casas.es/malaga/cuevas-del-becerro/calle-constitucion/
+29048,Cuevas del Becerro,10,Avenida el Nacimiento,28,https://casas.es/malaga/cuevas-del-becerro/avenida-nacimiento/
+29050,Cútar,1,Calle Real,29,https://casas.es/malaga/cutar/calle-real/
+29050,Cútar,2,Lugar La Zubia,22,https://casas.es/malaga/cutar/lugar-zubia/
+29050,Cútar,3,Calle Fuente,17,https://casas.es/malaga/cutar/calle-fuente/
+29050,Cútar,3,Calle los Barranqueros,17,https://casas.es/malaga/cutar/calle-barranqueros/
+29050,Cútar,5,Calle Obispo Muñoz Herrera,15,https://casas.es/malaga/cutar/calle-obispo-munoz-herrera/
+29050,Cútar,6,Calle Saucos,14,https://casas.es/malaga/cutar/calle-saucos/
+29050,Cútar,7,Calle Larios,12,https://casas.es/malaga/cutar/calle-larios/
+29050,Cútar,7,Calle Molino,12,https://casas.es/malaga/cutar/calle-molino/
+29050,Cútar,7,Calle Rodríguez de la Fuente,12,https://casas.es/malaga/cutar/calle-rodriguez-de-la-fuente/
+29030,El Borge,1,Calle Carril,29,https://casas.es/malaga/el-borge/calle-carril/
+29030,El Borge,2,Calle García Lorca,26,https://casas.es/malaga/el-borge/calle-garcia-lorca/
+29030,El Borge,3,Calle Pablo Iglesias,22,https://casas.es/malaga/el-borge/calle-pablo-iglesias/
+29030,El Borge,4,Calle los Caños,21,https://casas.es/malaga/el-borge/calle-canos/
+29030,El Borge,5,Calle Mojaria,17,https://casas.es/malaga/el-borge/calle-mojaria/
+29030,El Borge,6,Calle Antonio Machado,16,https://casas.es/malaga/el-borge/calle-antonio-machado/
+29030,El Borge,7,Calle Alcua,15,https://casas.es/malaga/el-borge/calle-alcua/
+29030,El Borge,7,Calle Antonio Molina,15,https://casas.es/malaga/el-borge/calle-antonio-molina/
+29030,El Borge,7,Calle Málaga,15,https://casas.es/malaga/el-borge/calle-malaga/
+29031,El Burgo,1,Calle Nueva,68,https://casas.es/malaga/el-burgo/calle-nueva/
+29031,El Burgo,2,Calle Málaga,56,https://casas.es/malaga/el-burgo/calle-malaga/
+29031,El Burgo,3,Calle Real Comandante Benítez,53,https://casas.es/malaga/el-burgo/calle-real-comandante-benitez/
+29031,El Burgo,4,Calle Mesones,46,https://casas.es/malaga/el-burgo/calle-mesones/
+29031,El Burgo,5,Calle la Calzada,44,https://casas.es/malaga/el-burgo/calle-calzada/
+29031,El Burgo,6,Calle los Escaloncitos,41,https://casas.es/malaga/el-burgo/calle-escaloncitos/
+29031,El Burgo,7,Calle Pocaharina,36,https://casas.es/malaga/el-burgo/calle-pocaharina/
+29031,El Burgo,8,Plaza la Villa,30,https://casas.es/malaga/el-burgo/plaza-villa/
+29031,El Burgo,9,Calle Enmedio,29,https://casas.es/malaga/el-burgo/calle-enmedio/
+29031,El Burgo,9,Calle Parras,29,https://casas.es/malaga/el-burgo/calle-parras/
+29051,Estepona,1,Avenida España,1118,https://casas.es/malaga/estepona/avenida-espana/
+29051,Estepona,2,Avenida del Carmen,993,https://casas.es/malaga/estepona/avenida-del-carmen/
+29051,Estepona,3,Calle Trajano,791,https://casas.es/malaga/estepona/calle-trajano/
+29051,Estepona,4,Avenida Puerta del Mar,772,https://casas.es/malaga/estepona/avenida-puerta-del-mar/
+29051,Estepona,5,Avenida Juan Carlos I,768,https://casas.es/malaga/estepona/avenida-juan-carlos-i/
+29051,Estepona,6,Avenida Andalucía,754,https://casas.es/malaga/estepona/avenida-andalucia/
+29051,Estepona,7,Avenida de los Reales,587,https://casas.es/malaga/estepona/avenida-de-los-reales/
+29051,Estepona,8,Avenida Reina Sofía,463,https://casas.es/malaga/estepona/avenida-reina-sofia/
+29051,Estepona,9,Avenida la Resina,386,https://casas.es/malaga/estepona/avenida-resina/
+29052,Faraján,1,Calle Eretas,20,https://casas.es/malaga/farajan/calle-eretas/
+29052,Faraján,2,Calle Genal,19,https://casas.es/malaga/farajan/calle-genal/
+29052,Faraján,2,Calle Juan Márquez Téllez,19,https://casas.es/malaga/farajan/calle-juan-marquez-tellez/
+29052,Faraján,4,Calle Romeral,17,https://casas.es/malaga/farajan/calle-romeral/
+29052,Faraján,4,Plaza de Andalucía,17,https://casas.es/malaga/farajan/plaza-de-andalucia/
+29052,Faraján,6,Calle Federico Sierra,15,https://casas.es/malaga/farajan/calle-federico-sierra/
+29052,Faraján,7,Calle el Corchuelo,14,https://casas.es/malaga/farajan/calle-corchuelo/
+29052,Faraján,8,Calle Balastar,13,https://casas.es/malaga/farajan/calle-balastar/
+29053,Frigiliana,1,Avenida de Andalucía,121,https://casas.es/malaga/frigiliana/avenida-de-andalucia/
+29053,Frigiliana,2,Calle Real,111,https://casas.es/malaga/frigiliana/calle-real/
+29053,Frigiliana,3,Carretera Circunvalación,102,https://casas.es/malaga/frigiliana/carretera-circunvalacion/
+29053,Frigiliana,4,Avenida Carlos Cano,99,https://casas.es/malaga/frigiliana/avenida-carlos-cano/
+29053,Frigiliana,5,Calle San Sebastián,81,https://casas.es/malaga/frigiliana/calle-san-sebastian/
+29053,Frigiliana,6,Calle Axarquía,63,https://casas.es/malaga/frigiliana/calle-axarquia/
+29053,Frigiliana,7,Calle las Huertas,56,https://casas.es/malaga/frigiliana/calle-huertas/
+29053,Frigiliana,8,Calle Chorruelo,49,https://casas.es/malaga/frigiliana/calle-chorruelo/
+29053,Frigiliana,9,Calle Rosarico ''La Joaquín'',45,https://casas.es/malaga/frigiliana/calle-rosarico-la-joaquin/
+29053,Frigiliana,10,Calleja del Agua,42,https://casas.es/malaga/frigiliana/calleja-del-agua/
+29054,Fuengirola,1,Paseo Marítimo Rey de España,4590,https://casas.es/malaga/fuengirola/paseo-maritimo-rey-de-espana/
+29054,Fuengirola,2,Avenida Ramón y Cajal,831,https://casas.es/malaga/fuengirola/avenida-ramon-y-cajal/
+29054,Fuengirola,3,Avenida Acapulco,717,https://casas.es/malaga/fuengirola/avenida-acapulco/
+29054,Fuengirola,4,Avenida Mijas,690,https://casas.es/malaga/fuengirola/avenida-mijas/
+29054,Fuengirola,5,Avenida Nuestro Padre Jesús Cautivo,653,https://casas.es/malaga/fuengirola/avenida-nuestro-padre-jesus-cautivo/
+29054,Fuengirola,6,Avenida de los Boliches,642,https://casas.es/malaga/fuengirola/avenida-de-boliches/
+29054,Fuengirola,7,Calle Romería del Rocío,530,https://casas.es/malaga/fuengirola/calle-romeria-del-rocio/
+29054,Fuengirola,8,Avenida Carvajal,521,https://casas.es/malaga/fuengirola/avenida-carvajal/
+29054,Fuengirola,9,Calle Feria Jerez,513,https://casas.es/malaga/fuengirola/calle-feria-jerez/
+29054,Fuengirola,10,Calle Narciso,511,https://casas.es/malaga/fuengirola/calle-narciso/
+29055,Fuente de Piedra,1,Calle Campillos,67,https://casas.es/malaga/fuente-de-piedra/calle-campillos/
+29055,Fuente de Piedra,2,Avenida Andalucía,65,https://casas.es/malaga/fuente-de-piedra/avenida-andalucia/
+29055,Fuente de Piedra,3,Calle 28 de Febrero,53,https://casas.es/malaga/fuente-de-piedra/calle-28-de-febrero/
+29055,Fuente de Piedra,4,Avenida de Málaga,48,https://casas.es/malaga/fuente-de-piedra/avenida-de-malaga/
+29055,Fuente de Piedra,4,Calle Nueva,48,https://casas.es/malaga/fuente-de-piedra/calle-nueva/
+29055,Fuente de Piedra,6,Calle la Laguna,44,https://casas.es/malaga/fuente-de-piedra/calle-laguna/
+29055,Fuente de Piedra,6,Calle los Solises,44,https://casas.es/malaga/fuente-de-piedra/calle-solises/
+29055,Fuente de Piedra,8,Calle Antequera,37,https://casas.es/malaga/fuente-de-piedra/calle-antequera/
+29055,Fuente de Piedra,9,Calle Sierra de Yeguas,36,https://casas.es/malaga/fuente-de-piedra/calle-sierra-de-yeguas/
+29056,Gaucín,1,Calle Barrio Alto,168,https://casas.es/malaga/gaucin/calle-barrio-alto/
+29056,Gaucín,2,Calle Luis de Armiñán,105,https://casas.es/malaga/gaucin/calle-luis-de-arminan/
+29056,Gaucín,3,Calle Alta,85,https://casas.es/malaga/gaucin/calle-alta/
+29056,Gaucín,4,Calle los Bancos,71,https://casas.es/malaga/gaucin/calle-bancos/
+29056,Gaucín,5,Calle Arrabalete,70,https://casas.es/malaga/gaucin/calle-arrabalete/
+29056,Gaucín,6,Calle Cañamaque,67,https://casas.es/malaga/gaucin/calle-canamaque/
+29056,Gaucín,7,Calle Barrio del Carmen,65,https://casas.es/malaga/gaucin/calle-barrio-del-carmen/
+29056,Gaucín,8,Calle Lorenzo García,59,https://casas.es/malaga/gaucin/calle-lorenzo-garcia/
+29056,Gaucín,9,Calle Nueva,53,https://casas.es/malaga/gaucin/calle-nueva/
+29056,Gaucín,10,Calle Parras,49,https://casas.es/malaga/gaucin/calle-parras/
+29057,Genalguacil,1,Calle Real,55,https://casas.es/malaga/genalguacil/calle-real/
+29057,Genalguacil,2,Calle Arroyo,30,https://casas.es/malaga/genalguacil/calle-arroyo/
+29057,Genalguacil,3,Avenida Estepona,26,https://casas.es/malaga/genalguacil/avenida-estepona/
+29057,Genalguacil,4,Calle Caridad,22,https://casas.es/malaga/genalguacil/calle-caridad/
+29057,Genalguacil,5,Calle Estación,20,https://casas.es/malaga/genalguacil/calle-estacion/
+29057,Genalguacil,6,Calle Lomilla,18,https://casas.es/malaga/genalguacil/calle-lomilla/
+29057,Genalguacil,6,Calle Parras,18,https://casas.es/malaga/genalguacil/calle-parras/
+29057,Genalguacil,6,Calle San Pedro,18,https://casas.es/malaga/genalguacil/calle-san-pedro/
+29057,Genalguacil,9,Calle Encarnación,15,https://casas.es/malaga/genalguacil/calle-encarnacion/
+29058,Guaro,1,Calle Hospital,139,https://casas.es/malaga/guaro/calle-hospital/
+29058,Guaro,2,Avenida Andalucía,91,https://casas.es/malaga/guaro/avenida-andalucia/
+29058,Guaro,3,Carretera de Monda,66,https://casas.es/malaga/guaro/carretera-de-monda/
+29058,Guaro,4,Calle Monda,57,https://casas.es/malaga/guaro/calle-monda/
+29058,Guaro,5,Calle Sierra,56,https://casas.es/malaga/guaro/calle-sierra/
+29058,Guaro,6,Calle Cerrillo,44,https://casas.es/malaga/guaro/calle-cerrillo/
+29058,Guaro,7,Calle Ermita,42,https://casas.es/malaga/guaro/calle-ermita/
+29058,Guaro,8,Calle Málaga,33,https://casas.es/malaga/guaro/calle-malaga/
+29058,Guaro,9,Calle Teja,29,https://casas.es/malaga/guaro/calle-teja/
+29058,Guaro,10,Calle Castillejo,28,https://casas.es/malaga/guaro/calle-castillejo/
+29059,Humilladero,1,Calle Andalucía,48,https://casas.es/malaga/humilladero/calle-andalucia/
+29059,Humilladero,2,Calle Calvario,42,https://casas.es/malaga/humilladero/calle-calvario/
+29059,Humilladero,2,Calle Cooperativa Olivarera,42,https://casas.es/malaga/humilladero/calle-cooperativa-olivarera/
+29059,Humilladero,4,Calle Ana Alba Rengel,37,https://casas.es/malaga/humilladero/calle-ana-alba-rengel/
+29059,Humilladero,4,Calle Juan Ramón Jiménez,37,https://casas.es/malaga/humilladero/calle-juan-ramon-jimenez/
+29059,Humilladero,4,Calle Versalles,37,https://casas.es/malaga/humilladero/calle-versalles/
+29059,Humilladero,7,Calle Real,32,https://casas.es/malaga/humilladero/calle-real/
+29059,Humilladero,8,Calle Cura Sanzo,30,https://casas.es/malaga/humilladero/calle-cura-sanzo/
+29059,Humilladero,9,Calle Rafael Alberti,28,https://casas.es/malaga/humilladero/calle-rafael-alberti/
+29059,Humilladero,10,Calle Vicente Aleixandre,27,https://casas.es/malaga/humilladero/calle-vicente-aleixandre/
+29060,Igualeja,1,Calle Barrero,58,https://casas.es/malaga/igualeja/calle-barrero/
+29060,Igualeja,2,Calle Camino de Ronda,43,https://casas.es/malaga/igualeja/calle-camino-de-ronda/
+29060,Igualeja,3,Calle Cortadero,36,https://casas.es/malaga/igualeja/calle-cortadero/
+29060,Igualeja,4,Calle Baja,34,https://casas.es/malaga/igualeja/calle-baja/
+29060,Igualeja,5,Calle Iglesia,31,https://casas.es/malaga/igualeja/calle-iglesia/
+29060,Igualeja,6,Plaza Andalucía,29,https://casas.es/malaga/igualeja/plaza-andalucia/
+29060,Igualeja,7,Calle Albaicín,28,https://casas.es/malaga/igualeja/calle-albaicin/
+29060,Igualeja,7,Calle Canal,28,https://casas.es/malaga/igualeja/calle-canal/
+29060,Igualeja,9,Calle Ermita,26,https://casas.es/malaga/igualeja/calle-ermita/
+29060,Igualeja,9,Callejón Albaicín,26,https://casas.es/malaga/igualeja/callejon-albaicin/
+29061,Istán,1,Calle San Miguel,74,https://casas.es/malaga/istan/calle-san-miguel/
+29061,Istán,2,Calle los Granados,59,https://casas.es/malaga/istan/calle-granados/
+29061,Istán,2,Calle Santo Cristo,59,https://casas.es/malaga/istan/calle-santo-cristo/
+29061,Istán,4,Avenida Juan Carlos I,57,https://casas.es/malaga/istan/avenida-juan-carlos-i/
+29061,Istán,5,Calle Río,48,https://casas.es/malaga/istan/calle-rio/
+29061,Istán,6,Calle Monda,47,https://casas.es/malaga/istan/calle-monda/
+29061,Istán,7,Calle Estación,42,https://casas.es/malaga/istan/calle-estacion/
+29061,Istán,7,Calle Perales,42,https://casas.es/malaga/istan/calle-perales/
+29061,Istán,9,Calle Empedrada,38,https://casas.es/malaga/istan/calle-empedrada/
+29061,Istán,10,Calle Marbella,35,https://casas.es/malaga/istan/calle-marbella/
+29062,Iznate,1,Calle Málaga,47,https://casas.es/malaga/iznate/calle-malaga/
+29062,Iznate,2,Calle Pilar,45,https://casas.es/malaga/iznate/calle-pilar/
+29062,Iznate,3,Calle Vélez,43,https://casas.es/malaga/iznate/calle-velez/
+29062,Iznate,4,Calle Portillo,40,https://casas.es/malaga/iznate/calle-portillo/
+29062,Iznate,5,Calle Alhóndiga,37,https://casas.es/malaga/iznate/calle-alhondiga/
+29062,Iznate,6,Calle Arroyo,28,https://casas.es/malaga/iznate/calle-arroyo/
+29062,Iznate,7,Calle Enmedio,21,https://casas.es/malaga/iznate/calle-enmedio/
+29062,Iznate,8,Calle Plazuela,17,https://casas.es/malaga/iznate/calle-plazuela/
+29062,Iznate,9,Calle la Fuente,16,https://casas.es/malaga/iznate/calle-fuente/
+29062,Iznate,10,Calle Cuatro Esquinas,14,https://casas.es/malaga/iznate/calle-cuatro-esquinas/
+29063,Jimera de Líbar,1,Paseo de la Ermita,47,https://casas.es/malaga/jimera-de-libar/paseo-de-la-ermita/
+29063,Jimera de Líbar,2,Calle Fontana,34,https://casas.es/malaga/jimera-de-libar/calle-fontana/
+29063,Jimera de Líbar,3,Calle Peña,29,https://casas.es/malaga/jimera-de-libar/calle-pena/
+29063,Jimera de Líbar,4,Calle Baja,27,https://casas.es/malaga/jimera-de-libar/calle-baja/
+29063,Jimera de Líbar,5,Calle Alta,24,https://casas.es/malaga/jimera-de-libar/calle-alta/
+29063,Jimera de Líbar,6,Calle Cerrillo,21,https://casas.es/malaga/jimera-de-libar/calle-cerrillo/
+29063,Jimera de Líbar,7,Calle Barreros,20,https://casas.es/malaga/jimera-de-libar/calle-barreros/
+29063,Jimera de Líbar,7,Calle Mártires de Igueriben,20,https://casas.es/malaga/jimera-de-libar/calle-martires-de-igueriben/
+29063,Jimera de Líbar,10,Calle Rodeo,16,https://casas.es/malaga/jimera-de-libar/calle-rodeo/
+29064,Jubrique,1,Calle Altillo,63,https://casas.es/malaga/jubrique/calle-altillo/
+29064,Jubrique,2,Calle Algatocín,54,https://casas.es/malaga/jubrique/calle-algatocin/
+29064,Jubrique,3,Calle Fuentes,35,https://casas.es/malaga/jubrique/calle-fuentes/
+29064,Jubrique,3,Calle Pradete,35,https://casas.es/malaga/jubrique/calle-pradete/
+29064,Jubrique,5,Calle Cruz,29,https://casas.es/malaga/jubrique/calle-cruz/
+29064,Jubrique,6,Calle Argüelles,27,https://casas.es/malaga/jubrique/calle-arguelles/
+29064,Jubrique,7,Calle Ánimas,21,https://casas.es/malaga/jubrique/calle-animas/
+29064,Jubrique,7,Calle Neruda,21,https://casas.es/malaga/jubrique/calle-neruda/
+29064,Jubrique,9,Calle Postigo,20,https://casas.es/malaga/jubrique/calle-postigo/
+29065,Júzcar,1,Avenida Havaral,25,https://casas.es/malaga/juzcar/avenida-havaral/
+29065,Júzcar,2,Calle Fuente Caraila,21,https://casas.es/malaga/juzcar/calle-fuente-caraila/
+29065,Júzcar,3,Calle los Riscos,15,https://casas.es/malaga/juzcar/calle-riscos/
+29065,Júzcar,3,Calle Sol,15,https://casas.es/malaga/juzcar/calle-sol/
+29065,Júzcar,5,Calle San José,13,https://casas.es/malaga/juzcar/calle-san-jose/
+29065,Júzcar,6,Calle Iglesia,10,https://casas.es/malaga/juzcar/calle-iglesia/
+29065,Júzcar,7,Calle Alcalde Diego Fernández,9,https://casas.es/malaga/juzcar/calle-alcalde-diego-fernandez/
+29065,Júzcar,7,Calle Cenay,9,https://casas.es/malaga/juzcar/calle-cenay/
+29065,Júzcar,7,Calle Cruz,9,https://casas.es/malaga/juzcar/calle-cruz/
+29065,Júzcar,10,Calle Genal,8,https://casas.es/malaga/juzcar/calle-genal/
+29066,Macharaviaya,1,Calle Salvador Rueda,27,https://casas.es/malaga/macharaviaya/calle-salvador-rueda/
+29066,Macharaviaya,2,Alameda Vallejo,21,https://casas.es/malaga/macharaviaya/aldea-vallejo/
+29066,Macharaviaya,3,Calle Calvario,14,https://casas.es/malaga/macharaviaya/calle-calvario/
+29066,Macharaviaya,4,Avenida de los Gálvez,13,https://casas.es/malaga/macharaviaya/avenida-de-los-galvez/
+29066,Macharaviaya,5,Calle Nuestra Señora del Rosario,11,https://casas.es/malaga/macharaviaya/calle-nuestra-senora-del-rosario/
+29066,Macharaviaya,6,Calle Roberto Harvey,10,https://casas.es/malaga/macharaviaya/calle-roberto-harvey/
+29066,Macharaviaya,7,Calle los Naipes,8,https://casas.es/malaga/macharaviaya/calle-naipes/
+29066,Macharaviaya,7,Calle Real de Málaga,8,https://casas.es/malaga/macharaviaya/calle-real-de-malaga/
+29066,Macharaviaya,9,Calle Periana,7,https://casas.es/malaga/macharaviaya/calle-periana/
+29066,Macharaviaya,10,Calle Burgos,6,https://casas.es/malaga/macharaviaya/calle-burgos/
+29067,Málaga,1,Avenida Europa,1685,https://casas.es/malaga/malaga/avenida-europa/
+29067,Málaga,2,Calle Pacífico,1395,https://casas.es/malaga/malaga/calle-pacifico/
+29067,Málaga,3,Calle Héroe de Sostoa,1311,https://casas.es/malaga/malaga/calle-heroe-de-sostoa/
+29067,Málaga,4,Avenida Carlos de Haya,1302,https://casas.es/malaga/malaga/avenida-carlos-de-haya/
+29067,Málaga,5,Avenida Velázquez,1294,https://casas.es/malaga/malaga/avenida-velazquez/
+29067,Málaga,6,Avenida Jane Bowles,1266,https://casas.es/malaga/malaga/avenida-jane-bowles/
+29067,Málaga,7,Avenida Andalucía,1197,https://casas.es/malaga/malaga/avenida-andalucia/
+29067,Málaga,8,Avenida José Ortega y Gasset,1123,https://casas.es/malaga/malaga/avenida-jose-ortega-y-gasset/
+29067,Málaga,9,Calle Alcalde Joaquín Quiles,1070,https://casas.es/malaga/malaga/calle-alcalde-joaquin-quiles/
+29067,Málaga,10,Alameda Capuchinos,927,https://casas.es/malaga/malaga/alameda-capuchinos/
+29068,Manilva,1,Calle la Noria,687,https://casas.es/malaga/manilva/calle-noria/
+29068,Manilva,2,Avenida de España,567,https://casas.es/malaga/manilva/avenida-de-espana/
+29068,Manilva,3,Avenida de la Paz,533,https://casas.es/malaga/manilva/avenida-de-la-paz/
+29068,Manilva,4,Avenida Sierra Morena,446,https://casas.es/malaga/manilva/avenida-sierra-morena/
+29068,Manilva,5,Camino del Peñoncillo,432,https://casas.es/malaga/manilva/camino-del-penoncillo/
+29068,Manilva,6,Calle Duquesa de Arcos,311,https://casas.es/malaga/manilva/calle-duquesa-de-arcos/
+29068,Manilva,9,Arrabal Martagina,257,https://casas.es/malaga/manilva/arrabal-martagina/
+29068,Manilva,9,Calle de los Fenicios,257,https://casas.es/malaga/manilva/calle-de-los-fenicios/
+29069,Marbella,1,Avenida Ricardo Soriano,1643,https://casas.es/malaga/marbella/avenida-ricardo-soriano/
+29069,Marbella,2,Calle Camilo José Cela,1056,https://casas.es/malaga/marbella/calle-camilo-jose-cela/
+29069,Marbella,3,Avenida del Prado,1008,https://casas.es/malaga/marbella/avenida-del-prado/
+29069,Marbella,4,Avenida José Manuel Valles,861,https://casas.es/malaga/marbella/avenida-jose-manuel-valles/
+29069,Marbella,6,Calle Alfredo Palma,830,https://casas.es/malaga/marbella/calle-alfredo-palma/
+29069,Marbella,7,Camino de Cortes,735,https://casas.es/malaga/marbella/camino-de-cortes/
+29069,Marbella,8,Avenida General López Domínguez,721,https://casas.es/malaga/marbella/avenida-general-lopez-dominguez/
+29069,Marbella,9,Avenida Jardines las Golondrinas,719,https://casas.es/malaga/marbella/avenida-jardines-las-golondrinas/
+29069,Marbella,10,Calle Ramón Gómez de la Serna,542,https://casas.es/malaga/marbella/calle-ramon-gomez-de-la-serna/
+29070,Mijas,1,Calle José Orbaneja de Calahonda,1844,https://casas.es/malaga/mijas/calle-jose-orbaneja-calahonda/
+29070,Mijas,3,Avenida España de Calahonda,580,https://casas.es/malaga/mijas/avenida-espana-de-calahonda/
+29070,Mijas,4,Calle Diamante de Riviera,515,https://casas.es/malaga/mijas/calle-diamante-de-riviera/
+29070,Mijas,5,Calle Cristóbal Colón Calahonda,480,https://casas.es/malaga/mijas/calle-cristobal-colon-calahonda/
+29070,Mijas,6,Avenida Suiza de Mijas Golf,453,https://casas.es/malaga/mijas/avenida-suiza-de-mijas-golf/
+29070,Mijas,7,Calle Ópalo de Riviera,442,https://casas.es/malaga/mijas/calle-opalo-de-riviera/
+29070,Mijas,9,Calle Alhamar,436,https://casas.es/malaga/mijas/calle-alhamar/
+29070,Mijas,10,Avenida Francia de Mijas Golf,434,https://casas.es/malaga/mijas/avenida-francia-de-mijas-golf/
+29071,Moclinejo,1,Calle Málaga,23,https://casas.es/malaga/moclinejo/calle-malaga/
+29071,Moclinejo,2,Calle Castillo,22,https://casas.es/malaga/moclinejo/calle-castillo/
+29071,Moclinejo,3,Calle Manuel Cabrera,20,https://casas.es/malaga/moclinejo/calle-manuel-cabrera/
+29071,Moclinejo,4,Avenida del Sur,19,https://casas.es/malaga/moclinejo/avenida-del-sur/
+29071,Moclinejo,4,Calle Andalucía,19,https://casas.es/malaga/moclinejo/calle-andalucia/
+29071,Moclinejo,4,Calle el Chorro,19,https://casas.es/malaga/moclinejo/calle-chorro/
+29071,Moclinejo,4,Calle Rambla de las Flores,19,https://casas.es/malaga/moclinejo/calle-rambla-de-las-flores/
+29072,Mollina,1,Calle Real,100,https://casas.es/malaga/mollina/calle-real/
+29072,Mollina,2,Avenida de la Fuente Mollina,71,https://casas.es/malaga/mollina/avenida-de-la-fuente-mollina/
+29072,Mollina,3,Calle de la Alameda,58,https://casas.es/malaga/mollina/calle-de-la-alameda/
+29072,Mollina,4,Calle Carreteros,56,https://casas.es/malaga/mollina/calle-carreteros/
+29072,Mollina,5,Calle Sierra de la Camorra,55,https://casas.es/malaga/mollina/calle-sierra-de-la-camorra/
+29072,Mollina,6,Calle Antequera,53,https://casas.es/malaga/mollina/calle-antequera/
+29072,Mollina,7,Calle los Guindos,51,https://casas.es/malaga/mollina/calle-guindos/
+29072,Mollina,8,Calle los Perales,50,https://casas.es/malaga/mollina/calle-perales/
+29072,Mollina,9,Calle Humilladero,44,https://casas.es/malaga/mollina/calle-humilladero/
+29072,Mollina,10,Calle Pedro Salinas,43,https://casas.es/malaga/mollina/calle-pedro-salinas/
+29073,Monda,1,Calle Marbella,180,https://casas.es/malaga/monda/calle-marbella/
+29073,Monda,2,Calle Málaga,56,https://casas.es/malaga/monda/calle-malaga/
+29073,Monda,3,Calle Estación,51,https://casas.es/malaga/monda/calle-estacion/
+29073,Monda,4,Calle Paja,50,https://casas.es/malaga/monda/calle-paja/
+29073,Monda,5,Calle Arroyo,48,https://casas.es/malaga/monda/calle-arroyo/
+29073,Monda,7,Calle Enmedio,39,https://casas.es/malaga/monda/calle-enmedio/
+29073,Monda,8,Calle Erillas,38,https://casas.es/malaga/monda/calle-erillas/
+29073,Monda,9,Calle Imperio,37,https://casas.es/malaga/monda/calle-imperio/
+29073,Monda,10,Calle Horquilleros,36,https://casas.es/malaga/monda/calle-horquilleros/
+29903,Montecorto,1,Calle Mahón,54,https://casas.es/malaga/montecorto/calle-mahon/
+29903,Montecorto,2,Calle Nacimiento,46,https://casas.es/malaga/montecorto/calle-nacimiento/
+29903,Montecorto,3,Calle Molino,45,https://casas.es/malaga/montecorto/calle-molino/
+29903,Montecorto,4,Calle Ronda,31,https://casas.es/malaga/montecorto/calle-ronda/
+29903,Montecorto,5,Calle Fuente,15,https://casas.es/malaga/montecorto/calle-fuente/
+29903,Montecorto,6,Calle Bermejales,14,https://casas.es/malaga/montecorto/calle-bermejales/
+29903,Montecorto,7,Calle Brioles,13,https://casas.es/malaga/montecorto/calle-brioles/
+29903,Montecorto,7,Calle San José,13,https://casas.es/malaga/montecorto/calle-san-jose/
+29903,Montecorto,9,Avenida de la Constitución,12,https://casas.es/malaga/montecorto/avenida-de-la-constitucion/
+29903,Montecorto,9,Partida Montecorto,12,https://casas.es/malaga/montecorto/partida-montecorto/
+29074,Montejaque,1,Avenida Andalucía,80,https://casas.es/malaga/montejaque/avenida-andalucia/
+29074,Montejaque,2,Avenida Europa,49,https://casas.es/malaga/montejaque/avenida-europa/
+29074,Montejaque,2,Calle Doctor Vázquez Gutiérrez,49,https://casas.es/malaga/montejaque/calle-doctor-vazquez-gutierrez/
+29074,Montejaque,4,Calle Santa Cruz,42,https://casas.es/malaga/montejaque/calle-santa-cruz/
+29074,Montejaque,5,Calle Manuel López,41,https://casas.es/malaga/montejaque/calle-manuel-lopez/
+29074,Montejaque,6,Calle Nueva,33,https://casas.es/malaga/montejaque/calle-nueva/
+29074,Montejaque,7,Calle Cardenal Herrera Oria,27,https://casas.es/malaga/montejaque/calle-cardenal-herrera-oria/
+29074,Montejaque,7,Calle Consejo,27,https://casas.es/malaga/montejaque/calle-consejo/
+29075,Nerja,1,Calle Castilla Pérez,782,https://casas.es/malaga/nerja/calle-castilla-perez/
+29075,Nerja,2,"Calle Antonio Ferrandis ""Chanquete""",581,https://casas.es/malaga/nerja/calle-antonio-ferrandis-chanquete/
+29075,Nerja,3,Calle Antonio Millón,483,https://casas.es/malaga/nerja/calle-antonio-millon/
+29075,Nerja,4,Calle Málaga,456,https://casas.es/malaga/nerja/calle-malaga/
+29075,Nerja,5,Calle Huertos,347,https://casas.es/malaga/nerja/calle-huertos/
+29075,Nerja,6,Calle Almirante Carranza,335,https://casas.es/malaga/nerja/calle-almirante-carranza/
+29075,Nerja,7,Avenida Chimenea,279,https://casas.es/malaga/nerja/avenida-chimenea/
+29075,Nerja,8,Avenida Ciudad de Pescia,200,https://casas.es/malaga/nerja/avenida-ciudad-de-pescia/
+29075,Nerja,8,Calle Hernando de Carabeo,200,https://casas.es/malaga/nerja/calle-hernando-de-carabeo/
+29076,Ojén,1,Calle Miguel de Cervantes,374,https://casas.es/malaga/ojen/calle-miguel-de-cervantes/
+29076,Ojén,2,Calle Londres,270,https://casas.es/malaga/ojen/calle-londres/
+29076,Ojén,3,Calle Clara Campoamor,218,https://casas.es/malaga/ojen/calle-clara-campoamor/
+29076,Ojén,4,Calle Velázquez,200,https://casas.es/malaga/ojen/calle-velazquez/
+29076,Ojén,5,Calle Madrid,134,https://casas.es/malaga/ojen/calle-madrid/
+29076,Ojén,6,Calle Avellano,121,https://casas.es/malaga/ojen/calle-avellano/
+29076,Ojén,7,Calle la Carrera,91,https://casas.es/malaga/ojen/calle-carrera/
+29076,Ojén,10,Calle Carretera,80,https://casas.es/malaga/ojen/calle-carretera/
+29077,Parauta,1,Calle Calvario,38,https://casas.es/malaga/parauta/calle-calvario/
+29077,Parauta,2,Calle Larga,34,https://casas.es/malaga/parauta/calle-larga/
+29077,Parauta,2,Calle Ronda,34,https://casas.es/malaga/parauta/calle-ronda/
+29077,Parauta,4,Calle Altillo,31,https://casas.es/malaga/parauta/calle-altillo/
+29077,Parauta,5,Calle Iglesia,21,https://casas.es/malaga/parauta/calle-iglesia/
+29077,Parauta,6,Calle Marbella,20,https://casas.es/malaga/parauta/calle-marbella/
+29077,Parauta,7,Calle Barrio Bajo,19,https://casas.es/malaga/parauta/calle-barrio-bajo/
+29077,Parauta,8,Calle San Juan,15,https://casas.es/malaga/parauta/calle-san-juan/
+29077,Parauta,9,Plaza Constitución,6,https://casas.es/malaga/parauta/plaza-constitucion/
+29079,Periana,1,Calle Al-Ándalus,67,https://casas.es/malaga/periana/calle-al-andalus/
+29079,Periana,2,Calle las Monjas,48,https://casas.es/malaga/periana/calle-monjas/
+29079,Periana,3,Calle Camino de Vélez,47,https://casas.es/malaga/periana/calle-camino-de-velez/
+29079,Periana,4,Aldea Guaro,45,https://casas.es/malaga/periana/aldea-guaro/
+29079,Periana,5,Aldea la Muela,44,https://casas.es/malaga/periana/aldea-la-muela/
+29079,Periana,6,Calle Carrascal,42,https://casas.es/malaga/periana/calle-carrascal/
+29079,Periana,7,Paseo Bellavista,40,https://casas.es/malaga/periana/paseo-bellavista/
+29079,Periana,8,Calle la Iglesia,38,https://casas.es/malaga/periana/calle-iglesia/
+29079,Periana,9,Calle Carretera Torre del Mar,35,https://casas.es/malaga/periana/calle-carretera-torre-del-mar/
+29079,Periana,10,Aldea Baños de Vilo,34,https://casas.es/malaga/periana/aldea-banos-de-vilo/
+29080,Pizarra,2,Calle Camarón de la Isla,94,https://casas.es/malaga/pizarra/calle-camaron-de-la-isla/
+29080,Pizarra,3,Calle Dehesa,88,https://casas.es/malaga/pizarra/calle-dehesa/
+29080,Pizarra,3,Calle Rodríguez de la Fuente,88,https://casas.es/malaga/pizarra/calle-rodriguez-de-la-fuente/
+29080,Pizarra,5,Calle el Limonar,84,https://casas.es/malaga/pizarra/calle-limonar/
+29080,Pizarra,6,Avenida la Constitución,81,https://casas.es/malaga/pizarra/avenida-constitucion/
+29080,Pizarra,6,Calle Málaga,81,https://casas.es/malaga/pizarra/calle-malaga/
+29080,Pizarra,6,Calle Sin Nombre Uez,81,https://casas.es/malaga/pizarra/calle-sin-nombre-uez/
+29080,Pizarra,10,Avenida la Fuensanta,62,https://casas.es/malaga/pizarra/avenida-fuensanta/
+29081,Pujerra,1,Calle Jubrique,37,https://casas.es/malaga/pujerra/calle-jubrique/
+29081,Pujerra,2,Calle Arrieros,23,https://casas.es/malaga/pujerra/calle-arrieros/
+29081,Pujerra,3,Calle Estación,14,https://casas.es/malaga/pujerra/calle-estacion/
+29081,Pujerra,4,Calle Alameda,12,https://casas.es/malaga/pujerra/calle-alameda/
+29081,Pujerra,4,Calle Horno,12,https://casas.es/malaga/pujerra/calle-horno/
+29081,Pujerra,6,Calle Corchadillos,9,https://casas.es/malaga/pujerra/calle-corchadillos/
+29081,Pujerra,6,Calle Esperón,9,https://casas.es/malaga/pujerra/calle-esperon/
+29081,Pujerra,6,Calle Fuentes,9,https://casas.es/malaga/pujerra/calle-fuentes/
+29081,Pujerra,6,Calle Nueva,9,https://casas.es/malaga/pujerra/calle-nueva/
+29081,Pujerra,10,Calle Estepona,8,https://casas.es/malaga/pujerra/calle-estepona/
+29082,Rincón de la Victoria,1,Avenida del Mediterráneo,2008,https://casas.es/malaga/rincon-de-la-victoria/avenida-del-mediterraneo/
+29082,Rincón de la Victoria,2,Camino Viejo de Vélez,829,https://casas.es/malaga/rincon-de-la-victoria/camino-viejo-de-velez/
+29082,Rincón de la Victoria,3,Avenida Manuel Altolaguirre,724,https://casas.es/malaga/rincon-de-la-victoria/avenida-manuel-altolaguirre/
+29082,Rincón de la Victoria,4,Calle Arroyo Totalán,472,https://casas.es/malaga/rincon-de-la-victoria/calle-arroyo-totalan/
+29082,Rincón de la Victoria,5,Avenida Virgen de la Candelaria,442,https://casas.es/malaga/rincon-de-la-victoria/avenida-virgen-de-la-candelaria/
+29082,Rincón de la Victoria,6,Avenida Málaga,428,https://casas.es/malaga/rincon-de-la-victoria/avenida-malaga/
+29082,Rincón de la Victoria,7,Calle Tamadaba,413,https://casas.es/malaga/rincon-de-la-victoria/calle-tamadaba/
+29082,Rincón de la Victoria,8,Avenida de la Axarquía,399,https://casas.es/malaga/rincon-de-la-victoria/avenida-de-la-axarquia/
+29082,Rincón de la Victoria,9,Avenida de la Torre,369,https://casas.es/malaga/rincon-de-la-victoria/avenida-de-la-torre/
+29082,Rincón de la Victoria,10,Calle Hermanos Álvarez Quintero,362,https://casas.es/malaga/rincon-de-la-victoria/calle-hermanos-alvarez-quintero/
+29083,Riogordo,1,Calle Hospital,101,https://casas.es/malaga/riogordo/calle-hospital/
+29083,Riogordo,2,Calle Noguera,57,https://casas.es/malaga/riogordo/calle-noguera/
+29083,Riogordo,3,Calle General Antonio Morales Villanueva,53,https://casas.es/malaga/riogordo/calle-general-antonio-morales-villanueva/
+29083,Riogordo,4,Calle Aprisco,51,https://casas.es/malaga/riogordo/calle-aprisco/
+29083,Riogordo,4,Calle Pozo,51,https://casas.es/malaga/riogordo/calle-pozo/
+29083,Riogordo,4,Paseo de Andalucía,51,https://casas.es/malaga/riogordo/paseo-de-andalucia/
+29083,Riogordo,7,Calle Santo Cristo,47,https://casas.es/malaga/riogordo/calle-santo-cristo/
+29083,Riogordo,8,Calle Camino de Vélez,43,https://casas.es/malaga/riogordo/calle-camino-de-velez/
+29083,Riogordo,9,Calle Deán,40,https://casas.es/malaga/riogordo/calle-dean/
+29084,Ronda,1,Calle Sevilla,486,https://casas.es/malaga/ronda/calle-sevilla/
+29084,Ronda,2,Calle Giner de los Ríos,361,https://casas.es/malaga/ronda/calle-giner-de-los-rios/
+29084,Ronda,3,Calle Francisco de Goya y Lucientes,344,https://casas.es/malaga/ronda/calle-francisco-de-goya-y-lucientes/
+29084,Ronda,4,Avenida Andalucía,342,https://casas.es/malaga/ronda/avenida-andalucia/
+29084,Ronda,5,Avenida Málaga,341,https://casas.es/malaga/ronda/avenida-malaga/
+29084,Ronda,6,Calle Padre Francisco Piquer,330,https://casas.es/malaga/ronda/calle-padre-francisco-piquer/
+29084,Ronda,7,Calle Granada,291,https://casas.es/malaga/ronda/calle-granada/
+29084,Ronda,8,Calle Lauria,289,https://casas.es/malaga/ronda/calle-lauria/
+29084,Ronda,9,Calle Molino,285,https://casas.es/malaga/ronda/calle-molino/
+29084,Ronda,10,Calle Infantes,276,https://casas.es/malaga/ronda/calle-infantes/
+29085,Salares,1,Calle Alminar,33,https://casas.es/malaga/salares/calle-alminar/
+29085,Salares,2,Calle Iglesia,31,https://casas.es/malaga/salares/calle-iglesia/
+29085,Salares,3,Calle Castillejo,26,https://casas.es/malaga/salares/calle-castillejo/
+29085,Salares,4,Calle Torrejón,17,https://casas.es/malaga/salares/calle-torrejon/
+29085,Salares,5,Calle del Río,15,https://casas.es/malaga/salares/calle-del-rio/
+29085,Salares,5,Calle Egido,15,https://casas.es/malaga/salares/calle-egido/
+29085,Salares,7,Calle Puente,14,https://casas.es/malaga/salares/calle-puente/
+29085,Salares,8,Calle Axarquía,10,https://casas.es/malaga/salares/calle-axarquia/
+29085,Salares,9,Calle la Unión,8,https://casas.es/malaga/salares/calle-union/
+29085,Salares,10,Calle del Arroyo,7,https://casas.es/malaga/salares/calle-del-arroyo/
+29086,Sayalonga,1,Calle Morales,59,https://casas.es/malaga/sayalonga/calle-morales/
+29086,Sayalonga,2,Calle Loma,43,https://casas.es/malaga/sayalonga/calle-loma/
+29086,Sayalonga,3,Calle Campillos,39,https://casas.es/malaga/sayalonga/calle-campillos/
+29086,Sayalonga,4,Calle Centro,38,https://casas.es/malaga/sayalonga/calle-centro/
+29086,Sayalonga,5,Avenida de Cómpeta,28,https://casas.es/malaga/sayalonga/avenida-de-competa/
+29086,Sayalonga,6,Calle Almijara,24,https://casas.es/malaga/sayalonga/calle-almijara/
+29086,Sayalonga,7,Calle Piaggine,22,https://casas.es/malaga/sayalonga/calle-piaggine/
+29086,Sayalonga,8,Calle Alta,21,https://casas.es/malaga/sayalonga/calle-alta/
+29086,Sayalonga,9,Calle las Pitas,20,https://casas.es/malaga/sayalonga/calle-pitas/
+29086,Sayalonga,10,Calle Barrio Bajo,19,https://casas.es/malaga/sayalonga/calle-barrio-bajo/
+29087,Sedella,1,Calle Daire,44,https://casas.es/malaga/sedella/calle-daire/
+29087,Sedella,2,Calle Llana,41,https://casas.es/malaga/sedella/calle-llana/
+29087,Sedella,3,Calle Libertad,35,https://casas.es/malaga/sedella/calle-libertad/
+29087,Sedella,4,Calle Jardines,25,https://casas.es/malaga/sedella/calle-jardines/
+29087,Sedella,5,Calle Andalucía,24,https://casas.es/malaga/sedella/calle-andalucia/
+29087,Sedella,6,Calle Ejido,23,https://casas.es/malaga/sedella/calle-ejido/
+29087,Sedella,7,Calle Baja,21,https://casas.es/malaga/sedella/calle-baja/
+29087,Sedella,7,Calle Villa Castillo,21,https://casas.es/malaga/sedella/calle-villa-castillo/
+29904,Serrato,1,Calle Ronda,99,https://casas.es/malaga/serrato/calle-ronda/
+29904,Serrato,2,Calle Cauce,64,https://casas.es/malaga/serrato/calle-cauce/
+29904,Serrato,3,Calle Alta,53,https://casas.es/malaga/serrato/calle-alta/
+29904,Serrato,4,Calle Caminillo,14,https://casas.es/malaga/serrato/calle-caminillo/
+29904,Serrato,5,Calle Fuente,12,https://casas.es/malaga/serrato/calle-fuente/
+29904,Serrato,5,Calle Nueva,12,https://casas.es/malaga/serrato/calle-nueva/
+29904,Serrato,7,Calle Andalucía,9,https://casas.es/malaga/serrato/calle-andalucia/
+29904,Serrato,8,Calle Miradores,7,https://casas.es/malaga/serrato/calle-miradores/
+29904,Serrato,8,Plaza Andalucía,7,https://casas.es/malaga/serrato/plaza-andalucia/
+29088,Sierra de Yeguas,1,Calle Real,108,https://casas.es/malaga/sierra-de-yeguas/calle-real/
+29088,Sierra de Yeguas,2,Calle Campillos,73,https://casas.es/malaga/sierra-de-yeguas/calle-campillos/
+29088,Sierra de Yeguas,3,Calle Cruz,69,https://casas.es/malaga/sierra-de-yeguas/calle-cruz/
+29088,Sierra de Yeguas,4,Calle Oliva,49,https://casas.es/malaga/sierra-de-yeguas/calle-oliva/
+29088,Sierra de Yeguas,5,Calle el Romeral,48,https://casas.es/malaga/sierra-de-yeguas/calle-romeral/
+29088,Sierra de Yeguas,5,Calle Sol,48,https://casas.es/malaga/sierra-de-yeguas/calle-sol/
+29088,Sierra de Yeguas,7,Calle los Llanos,47,https://casas.es/malaga/sierra-de-yeguas/calle-llanos/
+29088,Sierra de Yeguas,8,Calle Ramón y Cajal,41,https://casas.es/malaga/sierra-de-yeguas/calle-ramon-y-cajal/
+29088,Sierra de Yeguas,9,Avenida Fuente Piedra,40,https://casas.es/malaga/sierra-de-yeguas/avenida-fuente-piedra/
+29088,Sierra de Yeguas,9,Calle Cristo,40,https://casas.es/malaga/sierra-de-yeguas/calle-cristo/
+29089,Teba,1,Calle Alta,134,https://casas.es/malaga/teba/calle-alta/
+29089,Teba,2,Calle Moral,113,https://casas.es/malaga/teba/calle-moral/
+29089,Teba,3,Calle Sevilla,110,https://casas.es/malaga/teba/calle-sevilla/
+29089,Teba,4,Calle Carrera,94,https://casas.es/malaga/teba/calle-carrera/
+29089,Teba,5,Calle Grande,92,https://casas.es/malaga/teba/calle-grande/
+29089,Teba,5,Calle San Francisco,92,https://casas.es/malaga/teba/calle-san-francisco/
+29089,Teba,7,Calle Santiago,79,https://casas.es/malaga/teba/calle-santiago/
+29089,Teba,8,Calle Albarrada,77,https://casas.es/malaga/teba/calle-albarrada/
+29089,Teba,9,Calle Nueva,70,https://casas.es/malaga/teba/calle-nueva/
+29089,Teba,10,Calle Carrasco,57,https://casas.es/malaga/teba/calle-carrasco/
+29090,Tolox,1,Calle Villa Baja,75,https://casas.es/malaga/tolox/calle-villa-baja/
+29090,Tolox,2,Calle Chorruelo,71,https://casas.es/malaga/tolox/calle-chorruelo/
+29090,Tolox,3,Calle Encina,70,https://casas.es/malaga/tolox/calle-encina/
+29090,Tolox,4,Calle Chopillos,60,https://casas.es/malaga/tolox/calle-chopillos/
+29090,Tolox,6,Calle Villa Alta,55,https://casas.es/malaga/tolox/calle-villa-alta/
+29090,Tolox,7,Avenida de San Roque,50,https://casas.es/malaga/tolox/avenida-de-san-roque/
+29090,Tolox,8,Calle Ancha,47,https://casas.es/malaga/tolox/calle-ancha/
+29090,Tolox,9,Calle Camino Nuevo,42,https://casas.es/malaga/tolox/calle-camino-nuevo/
+29901,Torremolinos,1,Avenida Carlota Alessandri,1521,https://casas.es/malaga/torremolinos/avenida-carlota-alessandri/
+29901,Torremolinos,2,Avenida Isabel Manoja,1150,https://casas.es/malaga/torremolinos/avenida-isabel-manoja/
+29901,Torremolinos,3,Avenida de Benyamina,1113,https://casas.es/malaga/torremolinos/avenida-benyamina/
+29901,Torremolinos,4,Calle Eduardo Aguilera Romero,1036,https://casas.es/malaga/torremolinos/calle-eduardo-aguilera-romero/
+29901,Torremolinos,5,Calle de la Colina,997,https://casas.es/malaga/torremolinos/calle-de-la-colina/
+29901,Torremolinos,6,Avenida de los Manantiales,961,https://casas.es/malaga/torremolinos/avenida-de-los-manantiales/
+29901,Torremolinos,7,Calle Castillo del Inglés,800,https://casas.es/malaga/torremolinos/calle-castillo-del-ingles/
+29901,Torremolinos,8,Avenida de Benalmádena,721,https://casas.es/malaga/torremolinos/avenida-benalmadena/
+29901,Torremolinos,9,Calle Campillos,690,https://casas.es/malaga/torremolinos/calle-campillos/
+29901,Torremolinos,10,Calle Loma de los Riscos,680,https://casas.es/malaga/torremolinos/calle-loma-de-los-riscos/
+29091,Torrox,1,Carretera El Morche o Almería,1073,https://casas.es/malaga/torrox/carretera-morche-o-almeria/
+29091,Torrox,2,Carretera Almería,842,https://casas.es/malaga/torrox/carretera-almeria/
+29091,Torrox,3,Avenida García Peñalver,737,https://casas.es/malaga/torrox/avenida-garcia-penalver/
+29091,Torrox,4,Avenida América,565,https://casas.es/malaga/torrox/avenida-america/
+29091,Torrox,5,Avenida Europa,474,https://casas.es/malaga/torrox/avenida-europa/
+29091,Torrox,6,Calle Casas Nuevas,428,https://casas.es/malaga/torrox/calle-casas-nuevas/
+29091,Torrox,7,Avenida el Faro,370,https://casas.es/malaga/torrox/avenida-faro/
+29091,Torrox,8,Avenida de España,351,https://casas.es/malaga/torrox/avenida-espana/
+29091,Torrox,9,Carretera el Morche,312,https://casas.es/malaga/torrox/carretera-el-morche/
+29091,Torrox,10,Calle Madrid,279,https://casas.es/malaga/torrox/calle-madrid/
+29092,Totalán,1,Calle del Real,31,https://casas.es/malaga/totalan/calle-del-real/
+29092,Totalán,2,Calle Cura Barroso,21,https://casas.es/malaga/totalan/calle-cura-barroso/
+29092,Totalán,3,Calle Enrique Castillo,20,https://casas.es/malaga/totalan/calle-enrique-castillo/
+29092,Totalán,4,Avenida Andalucía,18,https://casas.es/malaga/totalan/avenida-andalucia/
+29092,Totalán,4,Calle Axarquía,18,https://casas.es/malaga/totalan/calle-axarquia/
+29092,Totalán,4,Calle Luna,18,https://casas.es/malaga/totalan/calle-luna/
+29092,Totalán,7,Pasaje de la Avenida de Andalucía,14,https://casas.es/malaga/totalan/paseo-de-la-avenida-de-andalucia/
+29092,Totalán,9,Calle Pasionaria,13,https://casas.es/malaga/totalan/calle-pasionaria/
+29093,Valle de Abdalajís,1,Calle Málaga,65,https://casas.es/malaga/valle-de-abdalajis/calle-malaga/
+29093,Valle de Abdalajís,2,Calle Juan Chamizo,63,https://casas.es/malaga/valle-de-abdalajis/calle-juan-chamizo/
+29093,Valle de Abdalajís,3,Calle Real,49,https://casas.es/malaga/valle-de-abdalajis/calle-real/
+29093,Valle de Abdalajís,4,Calle Cantarrana,48,https://casas.es/malaga/valle-de-abdalajis/calle-cantarrana/
+29093,Valle de Abdalajís,5,Calle Campos,47,https://casas.es/malaga/valle-de-abdalajis/calle-campos/
+29093,Valle de Abdalajís,5,Calle Mayor,47,https://casas.es/malaga/valle-de-abdalajis/calle-mayor/
+29093,Valle de Abdalajís,7,Calle Doctor Conejo Mir,46,https://casas.es/malaga/valle-de-abdalajis/calle-doctor-conejo-mir/
+29093,Valle de Abdalajís,8,Calle Viento,41,https://casas.es/malaga/valle-de-abdalajis/calle-viento/
+29093,Valle de Abdalajís,9,Calle Sierra,38,https://casas.es/malaga/valle-de-abdalajis/calle-sierra/
+29093,Valle de Abdalajís,10,Calle Nueva,34,https://casas.es/malaga/valle-de-abdalajis/calle-nueva/
+29094,Vélez-Málaga,1,Avenida Andalucía,1704,https://casas.es/malaga/velez-malaga/avenida-andalucia/
+29094,Vélez-Málaga,2,Avenida Antonio Tore Tore,1053,https://casas.es/malaga/velez-malaga/avenida-antonio-tore/
+29094,Vélez-Málaga,3,Avenida Vivar Téllez,637,https://casas.es/malaga/velez-malaga/avenida-vivar-tellez/
+29094,Vélez-Málaga,4,Calle Infantes,530,https://casas.es/malaga/velez-malaga/calle-infantes/
+29094,Vélez-Málaga,5,Avenida Brisa del Mar,489,https://casas.es/malaga/velez-malaga/avenida-brisa-del-mar/
+29094,Vélez-Málaga,6,Calle Doctor Fleming,473,https://casas.es/malaga/velez-malaga/calle-doctor-fleming/
+29094,Vélez-Málaga,7,Calle Mar Cantábrico,470,https://casas.es/malaga/velez-malaga/calle-mar-cantabrico/
+29094,Vélez-Málaga,8,Avenida Doctor Marañón,465,https://casas.es/malaga/velez-malaga/avenida-doctor-maranon/
+29094,Vélez-Málaga,9,Calle Molino Velasco,428,https://casas.es/malaga/velez-malaga/calle-molino-velasco/
+29094,Vélez-Málaga,10,Avenida Villa de Madrid,412,https://casas.es/malaga/velez-malaga/avenida-villa-de-madrid/
+29095,Villanueva de Algaidas,1,Calle Archidona,117,https://casas.es/malaga/villanueva-de-algaidas/calle-archidona/
+29095,Villanueva de Algaidas,2,Calle Constitución,92,https://casas.es/malaga/villanueva-de-algaidas/calle-constitucion/
+29095,Villanueva de Algaidas,3,Calle Granada,82,https://casas.es/malaga/villanueva-de-algaidas/calle-granada/
+29095,Villanueva de Algaidas,4,Calle Amapola,53,https://casas.es/malaga/villanueva-de-algaidas/calle-amapola/
+29095,Villanueva de Algaidas,4,Calle Luz,53,https://casas.es/malaga/villanueva-de-algaidas/calle-luz/
+29095,Villanueva de Algaidas,4,Calle Sol,53,https://casas.es/malaga/villanueva-de-algaidas/calle-sol/
+29095,Villanueva de Algaidas,7,Calle Málaga,52,https://casas.es/malaga/villanueva-de-algaidas/calle-malaga/
+29095,Villanueva de Algaidas,8,Calle Mirlo,49,https://casas.es/malaga/villanueva-de-algaidas/calle-mirlo/
+29095,Villanueva de Algaidas,9,Calle Ramón y Cajal,46,https://casas.es/malaga/villanueva-de-algaidas/calle-ramon-y-cajal/
+29902,Villanueva de la Concepción,1,Avenida de la Libertad,79,https://casas.es/malaga/villanueva-de-la-concepcion/avenida-de-la-libertad/
+29902,Villanueva de la Concepción,2,Avenida Blas Infante,74,https://casas.es/malaga/villanueva-de-la-concepcion/avenida-blas-infante/
+29902,Villanueva de la Concepción,3,Calle Nueva,62,https://casas.es/malaga/villanueva-de-la-concepcion/calle-nueva/
+29902,Villanueva de la Concepción,4,Calle Real,54,https://casas.es/malaga/villanueva-de-la-concepcion/calle-real/
+29902,Villanueva de la Concepción,5,Calle San Antonio,53,https://casas.es/malaga/villanueva-de-la-concepcion/calle-san-antonio/
+29902,Villanueva de la Concepción,6,Calle Reina Sofía,52,https://casas.es/malaga/villanueva-de-la-concepcion/calle-reina-sofia/
+29902,Villanueva de la Concepción,7,Calle Santa María,48,https://casas.es/malaga/villanueva-de-la-concepcion/calle-santa-maria/
+29902,Villanueva de la Concepción,8,Calle Príncipe Felipe,47,https://casas.es/malaga/villanueva-de-la-concepcion/calle-principe-felipe/
+29902,Villanueva de la Concepción,9,Calle Olivo,33,https://casas.es/malaga/villanueva-de-la-concepcion/calle-olivo/
+29902,Villanueva de la Concepción,10,Avenida la Ballesta,32,https://casas.es/malaga/villanueva-de-la-concepcion/avenida-ballesta/
+29098,Villanueva de Tapia,1,Avenida la Constitución,116,https://casas.es/malaga/villanueva-de-tapia/avenida-constitucion/
+29098,Villanueva de Tapia,2,Calle Paseo de la Alameda,83,https://casas.es/malaga/villanueva-de-tapia/calle-paseo-de-la-alameda/
+29098,Villanueva de Tapia,3,Calle Iglesia,62,https://casas.es/malaga/villanueva-de-tapia/calle-iglesia/
+29098,Villanueva de Tapia,4,Calle Nueva,41,https://casas.es/malaga/villanueva-de-tapia/calle-nueva/
+29098,Villanueva de Tapia,5,Calle Andalucía,39,https://casas.es/malaga/villanueva-de-tapia/calle-andalucia/
+29098,Villanueva de Tapia,6,Calle Archidona,32,https://casas.es/malaga/villanueva-de-tapia/calle-archidona/
+29098,Villanueva de Tapia,6,Calle Granada,32,https://casas.es/malaga/villanueva-de-tapia/calle-granada/
+29098,Villanueva de Tapia,8,Calle Coronel Hidalgo,22,https://casas.es/malaga/villanueva-de-tapia/calle-coronel-hidalgo/
+29098,Villanueva de Tapia,9,Calle el Nacimiento,20,https://casas.es/malaga/villanueva-de-tapia/calle-nacimiento/
+29096,Villanueva del Rosario,1,Calle Arroyo,70,https://casas.es/malaga/villanueva-del-rosario/calle-arroyo/
+29096,Villanueva del Rosario,2,Avenida Blas Infante,64,https://casas.es/malaga/villanueva-del-rosario/avenida-blas-infante/
+29096,Villanueva del Rosario,3,Calle Carrera,60,https://casas.es/malaga/villanueva-del-rosario/calle-carrera/
+29096,Villanueva del Rosario,4,Calle Inés Molina,49,https://casas.es/malaga/villanueva-del-rosario/calle-ines-molina/
+29096,Villanueva del Rosario,5,Calle los Adoquines,44,https://casas.es/malaga/villanueva-del-rosario/calle-adoquines/
+29096,Villanueva del Rosario,6,Calle Fuente,40,https://casas.es/malaga/villanueva-del-rosario/calle-fuente/
+29096,Villanueva del Rosario,7,Calle Jaén,38,https://casas.es/malaga/villanueva-del-rosario/calle-jaen/
+29096,Villanueva del Rosario,8,Calle Plaza,36,https://casas.es/malaga/villanueva-del-rosario/calle-plaza/
+29097,Villanueva del Trabuco,1,Calle Agua,142,https://casas.es/malaga/villanueva-del-trabuco/calle-agua/
+29097,Villanueva del Trabuco,2,Avenida de Málaga,79,https://casas.es/malaga/villanueva-del-trabuco/avenida-de-malaga/
+29097,Villanueva del Trabuco,3,Calle Pablo Ruiz Picasso,71,https://casas.es/malaga/villanueva-del-trabuco/calle-pablo-ruiz-picasso/
+29097,Villanueva del Trabuco,4,Calle Cervantes,44,https://casas.es/malaga/villanueva-del-trabuco/calle-cervantes/
+29097,Villanueva del Trabuco,5,Calle Archidona,42,https://casas.es/malaga/villanueva-del-trabuco/calle-archidona/
+29097,Villanueva del Trabuco,5,Paseo San Antonio,42,https://casas.es/malaga/villanueva-del-trabuco/paseo-san-antonio/
+29097,Villanueva del Trabuco,7,Calle Universidad,38,https://casas.es/malaga/villanueva-del-trabuco/calle-universidad/
+29097,Villanueva del Trabuco,8,Calle Iglesia,36,https://casas.es/malaga/villanueva-del-trabuco/calle-iglesia/
+29097,Villanueva del Trabuco,9,Calle Villares,35,https://casas.es/malaga/villanueva-del-trabuco/calle-villares/
+29097,Villanueva del Trabuco,10,Calle Gibalto,32,https://casas.es/malaga/villanueva-del-trabuco/calle-gibalto/
+29099,Viñuela,1,Calle Pizarras,47,https://casas.es/malaga/vinuela/calle-pizarras/
+29099,Viñuela,2,Calle Granada,42,https://casas.es/malaga/vinuela/calle-granada/
+29099,Viñuela,2,Calle Virgen de la Milagrosa,42,https://casas.es/malaga/vinuela/calle-virgen-de-la-milagrosa/
+29099,Viñuela,4,Lugar Loma de San José,36,https://casas.es/malaga/vinuela/lugar-loma-de-san-jose/
+29099,Viñuela,5,Barriada La Aldea,35,https://casas.es/malaga/vinuela/barriada-la-aldea/
+29099,Viñuela,5,Barriada Ramírez Ermita,35,https://casas.es/malaga/vinuela/barriada-ramirez-ermita/
+29099,Viñuela,7,Lugar Casa Blanca,25,https://casas.es/malaga/vinuela/lugar-casa-blanca/
+29099,Viñuela,8,Barriada las Casillas,23,https://casas.es/malaga/vinuela/barriada-las-casillas/
+29099,Viñuela,8,Lugar Mangamasa,23,https://casas.es/malaga/vinuela/lugar-mangamasa/
+29099,Viñuela,10,Lugar La Rotura,22,https://casas.es/malaga/vinuela/lugar-rotura/
+29100,Yunquera,1,Calle Alozaina,123,https://casas.es/malaga/yunquera/calle-alozaina/
+29100,Yunquera,2,Calle Agua,92,https://casas.es/malaga/yunquera/calle-agua/
+29100,Yunquera,3,Calle Cerecillo,75,https://casas.es/malaga/yunquera/calle-cerecillo/
+29100,Yunquera,4,Calle Andalucía,72,https://casas.es/malaga/yunquera/calle-andalucia/
+29100,Yunquera,5,Calle Seminarista Duarte,63,https://casas.es/malaga/yunquera/calle-seminarista-duarte/
+29100,Yunquera,6,Calle Calvario,62,https://casas.es/malaga/yunquera/calle-calvario/
+29100,Yunquera,7,Calle San Sebastián,57,https://casas.es/malaga/yunquera/calle-san-sebastian/
+29100,Yunquera,8,Calle Camino del Sao,56,https://casas.es/malaga/yunquera/calle-camino-del-sao/
+29100,Yunquera,9,Calle Nueva,53,https://casas.es/malaga/yunquera/calle-nueva/
+29100,Yunquera,9,Calle Rubita,53,https://casas.es/malaga/yunquera/calle-rubita/

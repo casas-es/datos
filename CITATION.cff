@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas estos datos, cítalos así."
+title: "Datos abiertos de CASAS.ES: municipios y calles de España"
+type: dataset
+authors:
+  - name: "CASAS.ES"
+    website: "https://casas.es/"
+license: CC-BY-4.0
+repository-code: "https://github.com/casas-es/datos"
+url: "https://casas-es.github.io/datos/"
+date-released: "2026-10-31"
+keywords:
+  - catastro
+  - vivienda
+  - edificios
+  - municipios
+  - España
+  - Málaga
+  - datos abiertos

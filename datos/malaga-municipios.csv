@@ -1,0 +1,104 @@
+ine,municipio,provincia,edificios,viviendas,habitantes,anio_habitantes,mediana_anio_construccion,pct_antes_1960,pct_1960_1979,pct_1980_1999,pct_desde_2000,pct_anteriores_1979,edificios_desde_2015,edificios_anteriores_1900,calles,costa,url_casas_es,wikidata,url_datos_abiertos
+29001,Alameda,Málaga,1969,2279,5426,2025,1981,30.1,13.8,25.1,31.0,43.4,28,1,111,no,https://casas.es/malaga/alameda/,Q1611830,https://casas-es.github.io/datos/malaga/alameda/
+29002,Alcaucín,Málaga,1935,2376,2671,2025,1998,20.3,9.9,24.0,45.8,29.3,19,0,92,no,https://casas.es/malaga/alcaucin/,Q13155,https://casas-es.github.io/datos/malaga/alcaucin/
+29003,Alfarnate,Málaga,711,738,1034,2025,1975,35.2,24.9,27.8,12.1,59.4,4,0,67,no,https://casas.es/malaga/alfarnate/,Q1624009,https://casas-es.github.io/datos/malaga/alfarnate/
+29004,Alfarnatejo,Málaga,250,256,358,2025,1960,46.4,18.4,18.8,16.4,64.4,2,0,32,no,https://casas.es/malaga/alfarnatejo/,Q1623954,https://casas-es.github.io/datos/malaga/alfarnatejo/
+29005,Algarrobo,Málaga,1636,5661,7103,2025,1973,24.2,35.7,22.8,17.3,59.3,14,2,140,sí,https://casas.es/malaga/algarrobo/,Q926410,https://casas-es.github.io/datos/malaga/algarrobo/
+29006,Algatocín,Málaga,513,614,816,2025,1940,67.3,19.3,8.6,4.9,86.5,0,0,34,no,https://casas.es/malaga/algatocin/,Q1630445,https://casas-es.github.io/datos/malaga/algatocin/
+29007,Alhaurín de la Torre,Málaga,8316,16121,45066,2025,1994,3.7,16.1,42.6,37.6,18.4,693,0,737,no,https://casas.es/malaga/alhaurin-de-la-torre/,Q976528,https://casas-es.github.io/datos/malaga/alhaurin-de-la-torre/
+29008,Alhaurín el Grande,Málaga,8852,12783,27552,2025,1985,14.2,27.7,29.8,28.3,40.7,315,0,391,no,https://casas.es/malaga/alhaurin-el-grande/,Q846149,https://casas-es.github.io/datos/malaga/alhaurin-el-grande/
+29009,Almáchar,Málaga,973,1086,1959,2025,1950,59.9,16.8,16.2,7.1,76.7,4,0,83,no,https://casas.es/malaga/almachar/,Q1647730,https://casas-es.github.io/datos/malaga/almachar/
+29010,Almargen,Málaga,973,1065,1876,2025,1963,38.1,32.8,9.0,20.0,70.2,18,0,57,no,https://casas.es/malaga/almargen/,Q1630340,https://casas-es.github.io/datos/malaga/almargen/
+29011,Almogía,Málaga,2751,3056,4269,2025,1966,43.7,12.6,20.8,22.9,55.8,33,0,195,no,https://casas.es/malaga/almogia/,Q1754150,https://casas-es.github.io/datos/malaga/almogia/
+29012,Álora,Málaga,5766,7325,13650,2025,1970,32.3,24.7,21.9,21.1,56.6,52,0,307,no,https://casas.es/malaga/alora/,Q250746,https://casas-es.github.io/datos/malaga/alora/
+29013,Alozaina,Málaga,966,1198,2127,2025,1969,29.4,35.6,24.8,10.1,64.6,4,0,57,no,https://casas.es/malaga/alozaina/,Q1630229,https://casas-es.github.io/datos/malaga/alozaina/
+29014,Alpandeire,Málaga,264,284,242,2025,1900,71.6,6.8,14.4,7.2,78.0,1,0,13,no,https://casas.es/malaga/alpandeire/,Q1624182,https://casas-es.github.io/datos/malaga/alpandeire/
+29015,Antequera,Málaga,8626,18155,41849,2025,1970,36.1,25.4,19.8,18.6,61.1,135,66,491,no,https://casas.es/malaga/antequera/,Q572041,https://casas-es.github.io/datos/malaga/antequera/
+29016,Árchez,Málaga,309,312,441,2025,1950,55.7,20.1,18.4,5.8,74.8,0,0,30,no,https://casas.es/malaga/archez/,Q1754145,https://casas-es.github.io/datos/malaga/archez/
+29017,Archidona,Málaga,3473,4744,8105,2025,1971,39.4,14.1,23.1,23.3,53.2,60,1,262,no,https://casas.es/malaga/archidona/,Q920126,https://casas-es.github.io/datos/malaga/archidona/
+29018,Ardales,Málaga,1287,1391,2524,2025,1965,45.0,14.1,12.0,28.8,58.8,9,1,65,no,https://casas.es/malaga/ardales/,Q1623994,https://casas-es.github.io/datos/malaga/ardales/
+29019,Arenas,Málaga,733,787,1291,2025,1955,52.0,15.4,19.0,13.6,67.1,7,0,72,no,https://casas.es/malaga/arenas/,Q1641642,https://casas-es.github.io/datos/malaga/arenas/
+29020,Arriate,Málaga,1488,1832,4049,2025,1974,25.1,33.5,17.3,24.1,56.7,15,0,90,no,https://casas.es/malaga/arriate/,Q1624154,https://casas-es.github.io/datos/malaga/arriate/
+29021,Atajate,Málaga,165,199,168,2025,1970,33.3,21.8,31.5,13.3,55.2,0,0,20,no,https://casas.es/malaga/atajate/,Q540447,https://casas-es.github.io/datos/malaga/atajate/
+29022,Benadalid,Málaga,230,263,226,2025,1950,60.0,20.0,11.3,8.7,80,0,0,27,no,https://casas.es/malaga/benadalid/,Q1630147,https://casas-es.github.io/datos/malaga/benadalid/
+29023,Benahavís,Málaga,2327,9831,9472,2025,2003,1.0,4.1,29.8,65.1,4.9,429,0,283,no,https://casas.es/malaga/benahavis/,Q816672,https://casas-es.github.io/datos/malaga/benahavis/
+29024,Benalauría,Málaga,283,318,460,2025,1930,65.0,8.5,21.2,5.3,73.5,0,0,14,no,https://casas.es/malaga/benalauria/,Q816675,https://casas-es.github.io/datos/malaga/benalauria/
+29025,Benalmádena,Málaga,6579,49596,78338,2025,1984,2.4,34.4,39.4,23.8,35.4,243,0,707,sí,https://casas.es/malaga/benalmadena/,Q488869,https://casas-es.github.io/datos/malaga/benalmadena/
+29026,Benamargosa,Málaga,800,864,1560,2025,1968,40.6,22.4,25.1,11.9,61.9,8,0,64,no,https://casas.es/malaga/benamargosa/,Q970721,https://casas-es.github.io/datos/malaga/benamargosa/
+29027,Benamocarra,Málaga,1044,1268,3200,2025,1974,31.9,29.1,18.1,20.9,58.6,21,0,77,no,https://casas.es/malaga/benamocarra/,Q1624129,https://casas-es.github.io/datos/malaga/benamocarra/
+29028,Benaoján,Málaga,742,943,1427,2025,1957,56.6,20.9,12.5,10.0,76.0,1,0,44,no,https://casas.es/malaga/benaojan/,Q816694,https://casas-es.github.io/datos/malaga/benaojan/
+29029,Benarrabá,Málaga,418,444,457,2025,1940,73.7,12.7,8.6,5.0,86.1,1,0,24,no,https://casas.es/malaga/benarraba/,Q816696,https://casas-es.github.io/datos/malaga/benarraba/
+29032,Campillos,Málaga,2859,4121,8561,2025,1984,20.0,27.5,25.5,27.0,46.9,38,0,158,no,https://casas.es/malaga/campillos/,Q944101,https://casas-es.github.io/datos/malaga/campillos/
+29035,Cañete la Real,Málaga,1101,1138,1569,2025,1957,55.0,16.2,19.0,9.9,70.8,6,1,69,no,https://casas.es/malaga/canete-la-real/,Q13159,https://casas-es.github.io/datos/malaga/canete-la-real/
+29033,Canillas de Aceituno,Málaga,1237,1381,1801,2025,1945,64.9,12.0,11.3,11.7,76.2,13,0,69,no,https://casas.es/malaga/canillas-de-aceituno/,Q1647722,https://casas-es.github.io/datos/malaga/canillas-de-aceituno/
+29034,Canillas de Albaida,Málaga,589,647,807,2025,1978,32.9,21.2,34.3,11.5,52.3,4,1,48,no,https://casas.es/malaga/canillas-de-albaida/,Q1647757,https://casas-es.github.io/datos/malaga/canillas-de-albaida/
+29036,Carratraca,Málaga,409,447,801,2025,1960,48.4,19.6,19.3,12.7,68.0,1,0,30,no,https://casas.es/malaga/carratraca/,Q1650447,https://casas-es.github.io/datos/malaga/carratraca/
+29037,Cartajima,Málaga,212,227,234,2025,1900,60.8,13.7,20.3,5.2,74.5,1,0,27,no,https://casas.es/malaga/cartajima/,Q1630168,https://casas-es.github.io/datos/malaga/cartajima/
+29038,Cártama,Málaga,5229,10156,29333,2025,1987,6.4,25.6,38.7,29.3,28.9,111,1,365,no,https://casas.es/malaga/cartama/,Q935266,https://casas-es.github.io/datos/malaga/cartama/
+29039,Casabermeja,Málaga,2095,2325,4214,2025,1994,24.2,13.4,21.5,40.9,37.5,60,1,104,no,https://casas.es/malaga/casabermeja/,Q1630405,https://casas-es.github.io/datos/malaga/casabermeja/
+29040,Casarabonela,Málaga,1048,1387,2800,2025,1960,46.5,26.9,16.2,10.4,71.9,12,0,81,no,https://casas.es/malaga/casarabonela/,Q1630355,https://casas-es.github.io/datos/malaga/casarabonela/
+29041,Casares,Málaga,2415,8282,9009,2025,1979,32.8,17.6,21.2,28.5,50.0,82,0,82,sí,https://casas.es/malaga/casares/,Q913483,https://casas-es.github.io/datos/malaga/casares/
+29042,Coín,Málaga,8021,12403,26574,2025,1985,19.4,22.6,24.7,33.3,39.8,122,3,434,no,https://casas.es/malaga/coin/,Q1110418,https://casas-es.github.io/datos/malaga/coin/
+29043,Colmenar,Málaga,1534,1667,3626,2025,1977,30.8,23.1,23.0,23.0,52.7,37,1,112,no,https://casas.es/malaga/colmenar/,Q1015117,https://casas-es.github.io/datos/malaga/colmenar/
+29044,Comares,Málaga,653,679,1354,2025,1948,56.0,13.3,17.5,13.2,68.1,1,0,77,no,https://casas.es/malaga/comares/,Q488895,https://casas-es.github.io/datos/malaga/comares/
+29045,Cómpeta,Málaga,1525,2010,3824,2025,1968,34.2,30.9,23.7,11.1,63.7,9,1,123,no,https://casas.es/malaga/competa/,Q1623982,https://casas-es.github.io/datos/malaga/competa/
+29046,Cortes de la Frontera,Málaga,1693,2095,3048,2025,1970,35.5,25.6,16.4,22.5,61.0,4,0,133,no,https://casas.es/malaga/cortes-de-la-frontera/,Q1453000,https://casas-es.github.io/datos/malaga/cortes-de-la-frontera/
+29047,Cuevas Bajas,Málaga,693,744,1341,2025,1975,36.8,19.8,23.4,20.1,55.1,5,0,29,no,https://casas.es/malaga/cuevas-bajas/,Q1630277,https://casas-es.github.io/datos/malaga/cuevas-bajas/
+29049,Cuevas de San Marcos,Málaga,1824,1981,3647,2025,1977,19.6,34.7,32.8,12.9,52.7,0,0,85,no,https://casas.es/malaga/cuevas-de-san-marcos/,Q1647751,https://casas-es.github.io/datos/malaga/cuevas-de-san-marcos/
+29048,Cuevas del Becerro,Málaga,916,1038,1617,2025,1959,50.4,14.8,15.8,18.9,62.9,6,1,69,no,https://casas.es/malaga/cuevas-del-becerro/,Q1647740,https://casas-es.github.io/datos/malaga/cuevas-del-becerro/
+29050,Cútar,Málaga,424,437,603,2025,1955,54.6,16.3,23.2,5.9,70.7,0,0,39,no,https://casas.es/malaga/cutar/,Q385419,https://casas-es.github.io/datos/malaga/cutar/
+29030,El Borge,Málaga,514,538,958,2025,1953,56.6,18.1,15.8,9.5,73.9,3,0,58,no,https://casas.es/malaga/el-borge/,Q1630208,https://casas-es.github.io/datos/malaga/el-borge/
+29031,El Burgo,Málaga,1042,1132,1761,2025,1976,27.4,26.0,33.0,13.5,52.7,10,0,101,no,https://casas.es/malaga/el-burgo/,Q1623964,https://casas-es.github.io/datos/malaga/el-burgo/
+29051,Estepona,Málaga,8375,51649,79621,2025,1984,11.0,29.0,38.1,21.9,39.3,448,2,852,sí,https://casas.es/malaga/estepona/,Q492748,https://casas-es.github.io/datos/malaga/estepona/
+29052,Faraján,Málaga,225,235,285,2025,1950,61.3,18.2,18.2,2.2,79.6,1,0,19,no,https://casas.es/malaga/farajan/,Q377954,https://casas-es.github.io/datos/malaga/farajan/
+29053,Frigiliana,Málaga,2327,3046,3383,2025,1985,26.0,13.6,26.8,33.6,39.4,51,0,154,no,https://casas.es/malaga/frigiliana/,Q944137,https://casas-es.github.io/datos/malaga/frigiliana/
+29054,Fuengirola,Málaga,5659,50611,85211,2025,1979,3.5,46.5,32.0,18.0,48.3,197,0,603,sí,https://casas.es/malaga/fuengirola/,Q492735,https://casas-es.github.io/datos/malaga/fuengirola/
+29055,Fuente de Piedra,Málaga,1267,1630,3045,2025,1995,31.2,5.9,18.2,44.7,36.8,8,1,108,no,https://casas.es/malaga/fuente-de-piedra/,Q922378,https://casas-es.github.io/datos/malaga/fuente-de-piedra/
+29056,Gaucín,Málaga,1113,1288,1620,2025,1956,51.8,17.2,18.1,13.0,68.6,19,0,39,no,https://casas.es/malaga/gaucin/,Q944119,https://casas-es.github.io/datos/malaga/gaucin/
+29057,Genalguacil,Málaga,375,553,352,2025,1953,56.5,12.3,22.7,8.5,68.5,1,0,32,no,https://casas.es/malaga/genalguacil/,Q1630292,https://casas-es.github.io/datos/malaga/genalguacil/
+29058,Guaro,Málaga,1322,1573,2638,2025,1978,25.5,26.7,24.2,23.5,52.1,10,0,70,no,https://casas.es/malaga/guaro/,Q1650442,https://casas-es.github.io/datos/malaga/guaro/
+29059,Humilladero,Málaga,1483,1597,3373,2025,1990,19.6,17.5,20.3,42.5,36.6,44,0,131,no,https://casas.es/malaga/humilladero/,Q1630322,https://casas-es.github.io/datos/malaga/humilladero/
+29060,Igualeja,Málaga,478,519,733,2025,1960,46.4,30.5,18.0,5.0,76.2,3,0,23,no,https://casas.es/malaga/igualeja/,Q1624212,https://casas-es.github.io/datos/malaga/igualeja/
+29061,Istán,Málaga,922,1267,1707,2025,1982,22.4,23.9,28.2,25.5,44.0,13,0,58,no,https://casas.es/malaga/istan/,Q1630419,https://casas-es.github.io/datos/malaga/istan/
+29062,Iznate,Málaga,530,565,940,2025,1980,31.7,17.4,30.8,20.2,48.1,13,0,20,no,https://casas.es/malaga/iznate/,Q1630429,https://casas-es.github.io/datos/malaga/iznate/
+29063,Jimera de Líbar,Málaga,362,464,399,2025,1960,49.4,22.7,20.2,7.7,71.8,1,0,35,no,https://casas.es/malaga/jimera-de-libar/,Q1110772,https://casas-es.github.io/datos/malaga/jimera-de-libar/
+29064,Jubrique,Málaga,611,732,585,2025,1950,54.7,19.3,14.7,11.3,73.5,0,1,46,no,https://casas.es/malaga/jubrique/,Q1630392,https://casas-es.github.io/datos/malaga/jubrique/
+29065,Júzcar,Málaga,166,175,208,2025,1960,48.8,21.1,11.4,18.7,69.9,3,0,18,no,https://casas.es/malaga/juzcar/,Q911202,https://casas-es.github.io/datos/malaga/juzcar/
+29066,Macharaviaya,Málaga,203,220,518,2025,1963,47.3,23.2,11.8,17.7,69.5,3,0,34,no,https://casas.es/malaga/macharaviaya/,Q1630462,https://casas-es.github.io/datos/malaga/macharaviaya/
+29067,Málaga,Málaga,40014,259953,599063,2025,1975,22.0,34.3,28.5,15.3,54.1,913,531,8698,sí,https://casas.es/malaga/malaga/,Q8851,https://casas-es.github.io/datos/malaga/malaga/
+29068,Manilva,Málaga,2973,18046,18165,2025,1985,8.2,27.5,42.8,21.4,34.7,83,0,254,sí,https://casas.es/malaga/manilva/,Q913492,https://casas-es.github.io/datos/malaga/manilva/
+29069,Marbella,Málaga,16621,99960,159786,2025,1983,2.8,39.3,33.0,24.9,40.5,813,2,1951,sí,https://casas.es/malaga/marbella/,Q484799,https://casas-es.github.io/datos/malaga/marbella/
+29070,Mijas,Málaga,16782,63608,95104,2025,1988,5.0,21.4,46.5,27.1,24.6,526,3,1136,sí,https://casas.es/malaga/mijas/,Q492744,https://casas-es.github.io/datos/malaga/mijas/
+29071,Moclinejo,Málaga,477,498,1222,2025,1970,44.4,13.0,22.6,19.9,56.6,8,0,58,no,https://casas.es/malaga/moclinejo/,Q13152,https://casas-es.github.io/datos/malaga/moclinejo/
+29072,Mollina,Málaga,1921,2564,5528,2025,1985,27.9,9.9,27.7,34.6,37.0,21,0,168,no,https://casas.es/malaga/mollina/,Q1630374,https://casas-es.github.io/datos/malaga/mollina/
+29073,Monda,Málaga,1554,1940,2984,2025,1992,19.1,19.9,20.3,40.7,38.4,8,0,84,no,https://casas.es/malaga/monda/,Q1624023,https://casas-es.github.io/datos/malaga/monda/
+29903,Montecorto,Málaga,354,371,585,2025,1979,40.7,9.6,10.2,39.5,49.4,1,0,31,no,https://casas.es/malaga/montecorto/,Q3322606,https://casas-es.github.io/datos/malaga/montecorto/
+29074,Montejaque,Málaga,707,841,945,2025,1978,26.4,26.2,23.9,23.5,51.6,3,1,51,no,https://casas.es/malaga/montejaque/,Q842247,https://casas-es.github.io/datos/malaga/montejaque/
+29075,Nerja,Málaga,6585,16551,22132,2025,1986,7.4,18.9,57.9,15.7,25.9,213,3,384,sí,https://casas.es/malaga/nerja/,Q13149,https://casas-es.github.io/datos/malaga/nerja/
+29076,Ojén,Málaga,1171,3566,4755,2025,1983,14.2,16.0,46.0,23.8,29.7,39,0,114,no,https://casas.es/malaga/ojen/,Q944160,https://casas-es.github.io/datos/malaga/ojen/
+29077,Parauta,Málaga,211,238,271,2025,1940,72.0,20.4,3.8,3.8,92.4,2,0,9,no,https://casas.es/malaga/parauta/,Q1630188,https://casas-es.github.io/datos/malaga/parauta/
+29079,Periana,Málaga,1998,2276,3367,2025,1978,29.4,22.8,24.8,23.0,50.1,24,1,175,no,https://casas.es/malaga/periana/,Q732206,https://casas-es.github.io/datos/malaga/periana/
+29080,Pizarra,Málaga,2847,3801,10334,2025,1988,15.0,26.1,24.7,34.2,40.7,67,0,187,no,https://casas.es/malaga/pizarra/,Q1657599,https://casas-es.github.io/datos/malaga/pizarra/
+29081,Pujerra,Málaga,194,209,285,2025,1974,27.3,30.4,32.0,10.3,54.6,1,0,22,no,https://casas.es/malaga/pujerra/,Q1624046,https://casas-es.github.io/datos/malaga/pujerra/
+29082,Rincón de la Victoria,Málaga,5086,27419,52454,2025,1983,6.1,31.0,41.8,21.1,33.6,173,16,492,sí,https://casas.es/malaga/rincon-de-la-victoria/,Q1248474,https://casas-es.github.io/datos/malaga/rincon-de-la-victoria/
+29083,Riogordo,Málaga,1336,1452,2839,2025,1970,41.1,17.1,27.0,14.8,54.6,11,1,73,no,https://casas.es/malaga/riogordo/,Q1630306,https://casas-es.github.io/datos/malaga/riogordo/
+29084,Ronda,Málaga,5732,16932,33671,2025,1970,36.8,23.7,22.4,17.2,58.4,129,2,438,no,https://casas.es/malaga/ronda/,Q13153,https://casas-es.github.io/datos/malaga/ronda/
+29085,Salares,Málaga,216,216,194,2025,1935,74.0,11.6,7.0,7.4,85.1,2,0,19,no,https://casas.es/malaga/salares/,Q1647747,https://casas-es.github.io/datos/malaga/salares/
+29086,Sayalonga,Málaga,732,783,1672,2025,1960,45.6,23.8,22.0,8.6,67.7,4,0,87,no,https://casas.es/malaga/sayalonga/,Q1630141,https://casas-es.github.io/datos/malaga/sayalonga/
+29087,Sedella,Málaga,648,663,607,2025,1940,66.5,12.1,15.5,6.0,78.2,3,1,39,no,https://casas.es/malaga/sedella/,Q1630165,https://casas-es.github.io/datos/malaga/sedella/
+29904,Serrato,Málaga,281,296,457,2025,1951,73.7,8.2,8.2,10.0,81.5,2,0,14,no,https://casas.es/malaga/serrato/,Q6125968,https://casas-es.github.io/datos/malaga/serrato/
+29088,Sierra de Yeguas,Málaga,1488,1740,3418,2025,1978,27.6,23.5,20.0,28.8,50.3,35,0,112,no,https://casas.es/malaga/sierra-de-yeguas/,Q1647758,https://casas-es.github.io/datos/malaga/sierra-de-yeguas/
+29089,Teba,Málaga,1866,2146,3708,2025,1970,41.7,14.2,19.6,24.6,55.6,16,1,83,no,https://casas.es/malaga/teba/,Q1630260,https://casas-es.github.io/datos/malaga/teba/
+29090,Tolox,Málaga,1232,1513,2468,2025,1966,27.4,35.4,24.9,12.3,61.6,6,1,71,no,https://casas.es/malaga/tolox/,Q743326,https://casas-es.github.io/datos/malaga/tolox/
+29901,Torremolinos,Málaga,3708,44574,71329,2025,1980,6.0,39.9,28.0,26.1,43.7,115,1,485,sí,https://casas.es/malaga/torremolinos/,Q492737,https://casas-es.github.io/datos/malaga/torremolinos/
+29091,Torrox,Málaga,4401,19390,22015,2025,1975,35.1,20.0,26.4,18.5,54.6,93,0,259,sí,https://casas.es/malaga/torrox/,Q13150,https://casas-es.github.io/datos/malaga/torrox/
+29092,Totalán,Málaga,341,375,797,2025,1955,59.8,10.6,17.6,12.0,69.2,7,0,36,no,https://casas.es/malaga/totalan/,Q973594,https://casas-es.github.io/datos/malaga/totalan/
+29093,Valle de Abdalajís,Málaga,1135,1207,2439,2025,1978,23.5,27.7,34.3,14.5,50.8,2,0,64,no,https://casas.es/malaga/valle-de-abdalajis/,Q1647735,https://casas-es.github.io/datos/malaga/valle-de-abdalajis/
+29094,Vélez-Málaga,Málaga,12978,48924,86048,2025,1980,19.4,27.3,33.6,19.7,46.0,421,0,1047,sí,https://casas.es/malaga/velez-malaga/,Q492741,https://casas-es.github.io/datos/malaga/velez-malaga/
+29095,Villanueva de Algaidas,Málaga,1748,2109,4084,2025,1970,37.3,21.8,20.6,20.3,59.0,15,0,118,no,https://casas.es/malaga/villanueva-de-algaidas/,Q1647726,https://casas-es.github.io/datos/malaga/villanueva-de-algaidas/
+29902,Villanueva de la Concepción,Málaga,1699,1801,3296,2025,1983,31.7,14.4,22.1,31.7,45.7,44,4,85,no,https://casas.es/malaga/villanueva-de-la-concepcion/,Q130655,https://casas-es.github.io/datos/malaga/villanueva-de-la-concepcion/
+29098,Villanueva de Tapia,Málaga,775,856,1391,2025,1978,27.6,24.3,29.4,18.7,50.1,17,0,74,no,https://casas.es/malaga/villanueva-de-tapia/,Q949909,https://casas-es.github.io/datos/malaga/villanueva-de-tapia/
+29096,Villanueva del Rosario,Málaga,1680,1812,3470,2025,1980,23.0,26.5,32.0,18.5,47.0,37,0,126,no,https://casas.es/malaga/villanueva-del-rosario/,Q643724,https://casas-es.github.io/datos/malaga/villanueva-del-rosario/
+29097,Villanueva del Trabuco,Málaga,2272,2427,5521,2025,1985,29.8,14.3,28.7,27.3,43.4,111,6,176,no,https://casas.es/malaga/villanueva-del-trabuco/,Q1624040,https://casas-es.github.io/datos/malaga/villanueva-del-trabuco/
+29099,Viñuela,Málaga,1449,1487,2044,2025,2001,15.5,13.9,15.3,55.3,26.7,31,0,110,no,https://casas.es/malaga/vinuela/,Q1647744,https://casas-es.github.io/datos/malaga/vinuela/
+29100,Yunquera,Málaga,1938,2252,2828,2025,1980,24.8,24.6,24.4,26.2,48.1,19,2,108,no,https://casas.es/malaga/yunquera/,Q1647764,https://casas-es.github.io/datos/malaga/yunquera/
