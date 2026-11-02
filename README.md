@@ -5,6 +5,8 @@ Dirección General del Catastro, el INE y el Instituto Geográfico Nacional.
 
 **Web:** https://casas-es.github.io/datos/
 
+**DOI (Zenodo):** [10.5281/zenodo.23856482](https://doi.org/10.5281/zenodo.23856482) · También en [Hugging Face](https://huggingface.co/datasets/Gcasases/casas-es-malaga) y [Kaggle](https://www.kaggle.com/datasets/gabrielcasases/casas-es-malaga)
+
 ## Qué hay
 
 | Fichero | Qué es | Filas |
