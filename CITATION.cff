@@ -5,8 +5,25 @@ type: dataset
 authors:
   - name: "CASAS.ES"
     website: "https://casas.es/"
+  - family-names: "Rojo"
+    given-names: "Gabriel"
+    affiliation: "CASAS.ES"
+    orcid: "https://orcid.org/0009-0000-7760-5428"
 license: CC-BY-4.0
 doi: "10.5281/zenodo.23856482"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23856482"
+    description: "Zenodo"
+  - type: doi
+    value: "10.17605/OSF.IO/NTCED"
+    description: "OSF"
+  - type: doi
+    value: "10.23728/b2share.qnz01-cbw08"
+    description: "B2SHARE (EUDAT)"
+  - type: doi
+    value: "10.6084/m9.figshare.34941871"
+    description: "Figshare: el gráfico de épocas y los municipios"
 repository-code: "https://github.com/casas-es/datos"
 url: "https://casas-es.github.io/datos/"
 date-released: "2026-10-31"

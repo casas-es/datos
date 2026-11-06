@@ -7,6 +7,8 @@ Dirección General del Catastro, el INE y el Instituto Geográfico Nacional.
 
 **DOI (Zenodo):** [10.5281/zenodo.23856482](https://doi.org/10.5281/zenodo.23856482) · También en [Hugging Face](https://huggingface.co/datasets/Gcasases/casas-es-malaga) y [Kaggle](https://www.kaggle.com/datasets/gabrielcasases/casas-es-malaga) · Cómo usarlos en Python: [artículo en dev.to](https://dev.to/gcasases/datos-abiertos-de-los-103-municipios-de-malaga-edificios-viviendas-y-ano-de-construccion-en-un-csv-2a2o)
 
+**Copias con DOI:** [OSF](https://osf.io/ntced/) · [Figshare](https://figshare.com/articles/figure/Edificios_de_la_provincia_de_M_laga_por_poca_de_construcci_n_costa_frente_a_interior_gr_fico_y_datos_/34941871) (el gráfico de épocas y los municipios) · [B2SHARE (EUDAT)](https://b2share.eudat.eu/records/qnz01-cbw08) · **Autor:** Gabriel Rojo, CASAS.ES ([ORCID 0009-0000-7760-5428](https://orcid.org/0009-0000-7760-5428))
+
 ## Qué hay
 
 | Fichero | Qué es | Filas |
