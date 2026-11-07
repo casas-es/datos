@@ -38,3 +38,10 @@ footer a{color:var(--slate)}
 .barra div{display:flex;align-items:center;justify-content:center;font:700 13px/1 Inter;color:#fff;white-space:nowrap;overflow:hidden}
 .leyenda{display:flex;flex-wrap:wrap;gap:14px;font-size:13px;color:var(--slate)}.leyenda i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:6px;vertical-align:-1px}
 @media (max-width:600px){body{font-size:16px}.lead{font-size:17px}th,td{padding:8px}}
+.kit{background:#fff;border:1px solid var(--linea);border-radius:14px;padding:18px 20px;margin:30px 0}
+.kit h2{margin-top:4px}
+.kit figure img{max-width:100%}
+.kit .desc{font-size:15px}
+.kit details{margin:10px 0;font-size:15px}
+.kit summary{cursor:pointer;font-weight:700}
+.kit pre{white-space:pre-wrap;word-break:break-word;background:var(--crema);border:1px solid var(--linea);border-radius:8px;padding:10px 12px;font-size:13px;line-height:1.45}
