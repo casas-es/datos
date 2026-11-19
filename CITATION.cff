@@ -22,9 +22,6 @@ identifiers:
     value: "10.23728/b2share.qnz01-cbw08"
     description: "B2SHARE (EUDAT)"
   - type: doi
-    value: "10.6084/m9.figshare.34941871"
-    description: "Figshare: el gráfico de épocas y los municipios"
-  - type: doi
     value: "10.17632/gzppxncfnk.1"
     description: "Mendeley Data"
 repository-code: "https://github.com/casas-es/datos"
